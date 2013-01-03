@@ -28,19 +28,47 @@ Summary
     result. If you keep using the Service after an update, you’re agreeing to the new Terms.
     
     **2. The Service**
-    Section 2 gives you more detail about how the Service actually works. There is information about how to create accounts, how to create Business Cards (a way to offer your services through our Service), and the confidentiality of what you do on the Service. In section 2, we also describe our Service as a “venue.” In other words, you’ll be interacting with other users and we won’t be watching all the time. You should recognize that other users of the Service are, in most cases, not Pegu employees. While we work very hard to make Pegu a place for trusted and reliable information and people, you should use good judgment when interacting with other users because, ultimately, you’re at your own risk. There may be places on the Site or App where we provide guidelines to help you to protect yourself, but those never absolve you of taking responsibility for your use of the Service.
+    Section 2 gives you more detail about how the Service actually works. There is information about how
+    to create accounts, how to create Business Cards (a way to offer your services through our Service),
+    and the confidentiality of what you do on the Service. In section 2, we also describe our Service as a
+    “venue.” In other words, you’ll be interacting with other users and we won’t be watching all the time.
+    You should recognize that other users of the Service are, in most cases, not Pegu employees. While we
+    work very hard to make Pegu a place for trusted and reliable information and people, you should use
+    good judgment when interacting with other users because, ultimately, you’re at your own risk. There may
+    be places on the Site or App where we provide guidelines to help you to protect yourself, but those never
+    absolve you of taking responsibility for your use of the Service.
     
     **3. Financial Terms**
-    The Service is essentially a marketplace for buyers and sellers of expertise, so we need a section to describe how the transactions within the marketplace are handled. One specific point to keep in mind is that what you do on the Service may have Tax implications for you personally. We can’t really help you figure that stuff out, so you’ll need to seek whatever Tax counsel you normally do if you plan to be making money on the Service.
+    The Service is essentially a marketplace for buyers and sellers of expertise, so we need a section to
+    describe how the transactions within the marketplace are handled. One specific point to keep in mind is
+    that what you do on the Service may have Tax implications for you personally. We can’t really help you
+    figure that stuff out, so you’ll need to seek whatever Tax counsel you normally do if you plan to be
+    making money on the Service.
     
     **4. User Policies**
-    Our user policies describe who can use the Service, how they are expected to use it, and a few things about how we think about their responsibility and ours for what goes on. To use the Service, you need to be 18 and legally capable of signing a contract. You also need to make sure that agreeing to our Terms and using the Service doesn’t break any laws or rules that you need to be following. When you use the Service, you’re responsible for your actions. You can’t use the Service to break the law, steal things, or deceive people. We aren’t endorsing or verifying anyone on the Service, so use good judgment. There’s a lot of “Golden Rule” and “be smart” stuff captured in section 4.
+    Our user policies describe who can use the Service, how they are expected to use it, and a few things
+    about how we think about their responsibility and ours for what goes on. To use the Service, you need
+    to be 18 and legally capable of signing a contract. You also need to make sure that agreeing to our
+    Terms and using the Service doesn’t break any laws or rules that you need to be following. When you use
+    the Service, you’re responsible for your actions. You can’t use the Service to break the law, steal
+    things, or deceive people. We aren’t endorsing or verifying anyone on the Service, so use good judgment.
+    There’s a lot of “Golden Rule” and “be smart” stuff captured in section 4.
     
     **5. Licenses and Ownership**
-    Section 5 covers some intellectual property concepts, as they relate to software that we create and Content that both we and users create. This section establishes what we’re all allowed to do with that intellectual property. A specific provision to think about is the rights that you give Pegu when you upload Content to our Service. We need to capture a lot of rights to what you upload so that we can safely provide the Service, and we list those rights in section 5.
+    Section 5 covers some intellectual property concepts, as they relate to software that we create and
+    Content that both we and users create. This section establishes what we’re all allowed to do with that
+    intellectual property. A specific provision to think about is the rights that you give Pegu when you
+    upload Content to our Service. We need to capture a lot of rights to what you upload so that we can safely
+    provide the Service, and we list those rights in section 5.
     
     **6. General Provisions**
-    The last section, 6, captures a number of different legal concepts that can really be best described as “miscellaneous.” Running a company and operating a Service effectively is a complex business, and there are lots of statements we need to make to protect ourselves for every potential eventuality. In this section 6, you’ll find a number of additional waivers and protections for all kinds of things, particularly around damages resulting from use of the Service, and some ground rules like the governing law for the contract, the dispute resolution process, and what happens if anyone breaks the contract. These provisions are more broadly legal in nature and will have less information specific to the way our Service operates.
+    The last section, 6, captures a number of different legal concepts that can really be best described as
+    “miscellaneous.” Running a company and operating a Service effectively is a complex business, and there are
+    lots of statements we need to make to protect ourselves for every potential eventuality. In this section 6,
+    you’ll find a number of additional waivers and protections for all kinds of things, particularly around
+    damages resulting from use of the Service, and some ground rules like the governing law for the contract,
+    the dispute resolution process, and what happens if anyone breaks the contract. These provisions are more
+    broadly legal in nature and will have less information specific to the way our Service operates.
     
     Okay, now now that you’ve got a few things in mind to watch out for, below you’ll find the complete Terms.
     
@@ -48,17 +76,45 @@ Summary
   
   1.1 Accepting the Terms
     
-    While you’re likely reading this on the Pegu website or mobile application, ultimately we think of Pegu as offering a **“Service”** and we’ll refer collectively to the various form factors, products, and services that comprise the offering as such throughout this document. Individually, the Service consists of the **“Site,”** which can be accessed at [peguapp.com](http://www.peguapp.com/) or other websites on which we may make the Service available and the **“App,”** which describes any and all applications for mobile devices and tablets on which the Service is available. Thematically, the Service is an online venue that connects **“Clients”** who seek helpful information from **“Providers”** who can provide it. The Service is owned and operated by Pegu Labs, LLC, which we may shorten to **“Pegu,”** **“we,”** **“us,”** or **“our”** for brevity.
+    While you’re likely reading this on the Pegu website or mobile application, ultimately we think of Pegu as
+    offering a **“Service”** and we’ll refer collectively to the various form factors, products, and services
+    that comprise the offering as such throughout this document. Individually, the Service consists of the
+    **“Site,”** which can be accessed at [peguapp.com](http://www.peguapp.com/) or other websites on which we
+    may make the Service available and the **“App,”** which describes any and all applications for mobile devices
+    and tablets on which the Service is available. Thematically, the Service is an online venue that connects
+    **“Clients”** who seek helpful information from **“Providers”** who can provide it. The Service is owned and
+    operated by Pegu Labs, LLC, which we may shorten to **“Pegu,”** **“we,”** **“us,”** or **“our”** for brevity.
     
-    When you use the Service, even if you decide not to become a registered user, you agree to several things: (i) You’ll comply with and be legally bound by these Terms of Service (we’ll just call them **“Terms”** to keep things easy), the [Privacy Policy](/privacy) incorporated here by reference, and any rules, policies, or disclaimers posted on the Service about which you are notified. Collectively, those things make up the **“Agreement,”** (ii) You acknowledge that you are accepting a benefit that cannot be disgorged, (iii) You acknowledge that the service is subject to [U.S. export controls](http://www.treasury.gov/resource-center/sanctions/Programs/Pages/Programs.aspx) and that you will comply with them, and (iv) You are neither located in a [sanctioned country](http://www.treasury.gov/about/organizational-structure/offices/Pages/Office-of-Foreign-Assets-Control.aspx) nor a prohibited person. The Agreement governs your access to and use of the Service and all Collective Content (see the “Key Words” in section 1.2 if you see capitalized words and aren’t sure what they mean) and constitutes a binding legal agreement between you and Pegu.
+    When you use the Service, even if you decide not to become a registered user, you agree to several things:
+    (i) You’ll comply with and be legally bound by these Terms of Service (we’ll just call them **“Terms”** to
+    keep things easy), the [Privacy Policy](/privacy) incorporated here by reference, and any rules, policies,
+    or disclaimers posted on the Service about which you are notified. Collectively, those things make up the
+    **“Agreement,”** (ii) You acknowledge that you are accepting a benefit that cannot be disgorged, (iii)
+    You acknowledge that the service is subject to
+    [U.S. export controls](http://www.treasury.gov/resource-center/sanctions/Programs/Pages/Programs.aspx) and
+    that you will comply with them, and (iv) You are neither located in a
+    [sanctioned country](http://www.treasury.gov/about/organizational-structure/offices/Pages/Office-of-Foreign-Assets-Control.aspx)
+    nor a prohibited person. The Agreement governs your access to and use of the Service and all Collective
+    Content (see the “Key Words” in section 1.2 if you see capitalized words and aren’t sure what they mean) and
+    constitutes a binding legal agreement between you and Pegu.
     
-    We ask that you to read carefully both the Terms here and our Privacy Policy at [peguapp.com/privacy](/privacy). If you do not agree to the Agreement, that’s okay, but you can’t use the Service.
+    We ask that you to read carefully both the Terms here and our Privacy Policy at [peguapp.com/privacy](/privacy).
+    If you do not agree to the Agreement, that’s okay, but you can’t use the Service.
     
-    As part of the Service, Providers may create Business Cards as part of their offering to Clients. As a user you may interact with other users through their Business Cards or otherwise on the service, but in doing so you should recognize that Pegu is not party to any agreements you enter into with other users. This is because we don’t control users’ conduct on the Service or any information provided in connection thereto, so to protect Pegu we must disclaim liability in this regard.
+    As part of the Service, Providers may create Business Cards as part of their offering to Clients. As a user
+    you may interact with other users through their Business Cards or otherwise on the service, but in doing so
+    you should recognize that Pegu is not party to any agreements you enter into with other users. This is because
+    we don’t control users’ conduct on the Service or any information provided in connection thereto, so to protect
+    Pegu we must disclaim liability in this regard.
 
   1.2 Key words
     
-    We use this list of key words to keep track of words and phrases we repeat over and over again throughout the Agreement. You’ll recognize key words when you see them because they’ll always be capitalized. You can refer here for clarification on what they mean. Additionally, when we use **“you”** and **“your”** we’re referring to both the specific reader of these Terms, either an individual or entity that uses the Service, as well as all users in general. If you accept the Agreement on behalf of a company or other legal entity, you represent and warrant that you have the authority to do that.
+    We use this list of key words to keep track of words and phrases we repeat over and over again throughout
+    the Agreement. You’ll recognize key words when you see them because they’ll always be capitalized. You can
+    refer here for clarification on what they mean. Additionally, when we use **“you”** and **“your”** we’re
+    referring to both the specific reader of these Terms, either an individual or entity that uses the Service,
+    as well as all users in general. If you accept the Agreement on behalf of a company or other legal entity,
+    you represent and warrant that you have the authority to do that.
     
     **“AAA”** refers to the American Arbitration Association.
     
