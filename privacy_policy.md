@@ -3,11 +3,11 @@
 
 ## Summary
 
-Hi! You’ve found Pegu and our Privacy Policy. This document describes what
-personal information you give us when you use the Service and what we’re
+Hi! You've found Pegu and our Privacy Policy. This document describes what
+personal information you give us when you use the Service and what we're
 allowed to do with it. We take your privacy very seriously, so please read
-through the Privacy Policy to make sure we’re on the same page. If you haven’t
-read our [Terms of Service](/terms) yet, you should. It’s our contract with you
+through the Privacy Policy to make sure we're on the same page. If you haven't
+read our [Terms of Service](/terms) yet, you should. It's our contract with you
 that defines how we work together. It also defines a bunch of helpful key words
 that make it easier to write legal documents. Those words mean the same thing
 here in the Privacy Policy that they do in the Terms, unless we tell you
@@ -57,7 +57,7 @@ do not knowingly collect Personal Information from persons under the age of 18.
 If you are a parent or guardian and find that your child has provided Personal
 Information on our Service, email us at
 [feedback@pegulabs.com](mailto:feedback@pegulabs.com). If we are informed that
-a person under 18 has provided us with Personal Information, we’ll make all
+a person under 18 has provided us with Personal Information, we'll make all
 reasonable efforts to delete such information from our databases.
 
 ## 2. The types of information we collect about you
@@ -67,10 +67,10 @@ better. That information can be classified in the following ways.
 
 ### 2.1 Personal Information
 
-**“Personal Information”** is information you provide to Pegu that can be used
+**"Personal Information"** is information you provide to Pegu that can be used
 to identify you personally. You can take advantage of some basic features
 without providing Personal Information, but to register for the Service or take
-advantage of all the features, you’ll need to provide additional information
+advantage of all the features, you'll need to provide additional information
 that qualifies as Personal Information, such as:
 * basic information like your name, phone number, email address, mailing
 * address, or profile picture; login information like your username and
@@ -81,43 +81,43 @@ that qualifies as Personal Information, such as:
 
 ### 2.2 Settings
 
-**“Settings”** are pieces of information that you provide to us that cannot
+**"Settings"** are pieces of information that you provide to us that cannot
 identify you personally, but are associated with your Personal Information.
 These include account settings and preferences like notification settings,
 sound settings, favorites, or other types of preferences. We use this
 information to tailor the Service to you specifically, and we may also
-aggregate this information with other users’ information to analyze the
+aggregate this information with other users' information to analyze the
 performance of the Service.
 
 ### 2.3 Log Data
 
-**“Log Data”** are pieces of information sent to us from your browser when you
-visit our service. These may include your computer’s IP address, your browser
-type, other webpages you’ve visited or transactions you’ve completed, certain
+**"Log Data"** are pieces of information sent to us from your browser when you
+visit our service. These may include your computer's IP address, your browser
+type, other webpages you've visited or transactions you've completed, certain
 demographic information like your physical location, and other statistics. We
 collect and use this information to help understand and analyze the performance
-of our site and better tailor the experience to users’ needs. For example, we
+of our site and better tailor the experience to users' needs. For example, we
 may modify the site for the specific browser you are using. We do not treat Log
 Data as Personal Information or use it in association with other Personal
 Information, though we may aggregate, analyze and evaluate such information.
 
 ### 2.4 Interactive Information
 
-**“Interactive Information”** is information that you provide us through your
+**"Interactive Information"** is information that you provide us through your
 interactions on the Site or App. This information may include which pages or
 sections of our Site or App that you visit, the time you spend on those pages
 or sections, information and terms you search for, Exchanges you complete,
 Providers that you use, and specific times that you access the Service. While
-we don’t consider this information Personal Information, we may combine it with
+we don't consider this information Personal Information, we may combine it with
 your Personal Information to serve you better. For example, we may store the
 Providers you use on a regular basis within your Pegu Account so you can access
 those Providers more easily later on.
 
 ### 2.5 Cookies
 
-**“Cookies”** are small data files that we transfer to your computer for
+**"Cookies"** are small data files that we transfer to your computer for
 record-keeping. Cookie usage is common practice for many websites. We utilize
-persistent cookies to save your login information so you don’t have to log in
+persistent cookies to save your login information so you don't have to log in
 every time you visit our Service. We also utilize session cookies to enable
 certain features of the Service, to better understand how you interact with the
 Service, and to monitor aggregate usage and web traffic routing on the Service.
@@ -129,7 +129,7 @@ functionality of the Service.
 
 ### 2.6 Web Beacons
 
-**“Web Beacons”** are electronic images (sometimes called single-pixel gifs)
+**"Web Beacons"** are electronic images (sometimes called single-pixel gifs)
 used along with cookies to compile aggregated statistics to analyze the
 performance of an online service. We may use Web Beacons for this purpose. For
 example, we may include Web Beacons in emails that we send you to let us know
@@ -138,13 +138,13 @@ marketing campaigns and make them better.
 
 ### 2.7 Third Party Information
 
-**“Third Party Information”** is information about you made available from
+**"Third Party Information"** is information about you made available from
 third-party sources. As described in the [Terms](/terms), you can register to
 use the Service by logging into a SN Account (for example, your Facebook,
 Twitter or LinkedIn account). If you do, you will be giving us access to some
 Personal Information contained in that SN Account (commonly your real name,
 email address, profile picture, friends or connections on that SN, groups
-you’ve joined on that SN, and other publicly available information you’ve added
+you've joined on that SN, and other publicly available information you've added
 to that SN). We will use that Personal Information to create your Pegu Account,
 and store such information on our Service. Some examples of Third Party
 Information we might use to improve your experience on the Service include:
@@ -159,7 +159,7 @@ services, and we encourage you to read their respective privacy policies. You
 may want to take another look at our [Terms of Service](/terms) (section 2) to
 see our rules and rights that cover the use of Third Party Information
 
-## 3. How we’ll use your information
+## 3. How we'll use your information
 
 We use your information only 1) as described in this Privacy Policy, 2) as
 described to you on the Site or App at the time you provide it, 3) in other
@@ -188,7 +188,7 @@ have connected to your Pegu Account, a bio, and links to your Business Cards,
 if applicable (all such information comprises your profile information).
 Profile information you provide may be publicly visible to all users of the
 Service and consequently should reflect how much you want others to know about
-you. Be careful and protect information you consider sensitive and wouldn’t
+you. Be careful and protect information you consider sensitive and wouldn't
 want made public. You can always edit your profile information via the Service.
 
 ### 3.3 Business Cards
@@ -209,7 +209,7 @@ the Service, which we may send from time to time.
 
 You may also choose to use our referral service to ask a friend for a
 recommendation or testimonial, or to recommend our Service to them. In such
-cases we ask you for your friend’s email address and automatically send a
+cases we ask you for your friend's email address and automatically send a
 one-time email inviting him or her to visit the site. We store that email
 address solely to send this one-time email.
 
@@ -225,7 +225,7 @@ for the associated email account and will use it for that purpose only.
 
 We may use information you provide to fulfill your requests for products,
 services and information. For example, if you send an email to our customer
-service address, it’s pretty likely we’ll respond to the email address you used
+service address, it's pretty likely we'll respond to the email address you used
 to reach us.
 
 ### 3.7 Analysis
@@ -233,7 +233,7 @@ to reach us.
 In order to learn more about how our Service is used, we aggregate and perform
 data analysis on the information we collect. Such analysis helps us improve the
 functionality of the Service and better tailor our content and product to suit
-our users’ needs.
+our users' needs.
 
 ### 3.8 Testimonials
 
@@ -279,7 +279,7 @@ transferring your information.
 We may share information about you to prevent or take action regarding illegal
 activities, suspected fraud, situations involving potential threats to the
 physical safety or other rights and interests of any person, violations of
-Pegu’s [Terms of Service](/terms), or as otherwise required by law or
+Pegu's [Terms of Service](/terms), or as otherwise required by law or
 compulsory legal process.
 
 ### 4.5 Compliance
@@ -296,7 +296,7 @@ at [feedback@pegulabs.com](mailto:feedback@pegulabs.com) or editing your
 profile directly via the Site or App. If you want your Pegu Account
 deactivated, we promise not to cry and you can email us at
 [feedback@pegulabs.com](mailto:feedback@pegulabs.com). We will deactivate your
-account if we don’t have a legal obligation or legitimate business reason to
+account if we don't have a legal obligation or legitimate business reason to
 retain the information contained in your Pegu Account. In either case, keep in
 mind that your Member Content will remain publicly viewable via the Site and
 App.
@@ -322,8 +322,8 @@ provider. Access to the host environment is secure.
 
 ### 6.2 Phishing
 
-We’re particularly concerned and cognizant of both identity theft in general
-and the practice known as "phishing” specifically. **We will never request your
+We're particularly concerned and cognizant of both identity theft in general
+and the practice known as "phishing" specifically. **We will never request your
 credit card or banking information, your Pegu Account ID, login password, or
 any other private Personal Information in a non-secure or unsolicited email or
 phone call.** If someone claiming to represent Pegu does ask for such
@@ -347,7 +347,7 @@ posting on the Site or App as quickly as possible and without unreasonable
 delay, taking into consideration the legitimate needs of law enforcement or any
 measures necessary to determine the scope of the breach and restore the
 integrity of the Service. In other words, if we need to stay quiet about a
-breach to help the good guys catch the bad ones, we’ll do that until the coast
+breach to help the good guys catch the bad ones, we'll do that until the coast
 is clear.
 
 ## 7. Jurisdictions and international transfer
@@ -358,7 +358,7 @@ this policy with third parties who may perform their activities in other
 countries. As a result, your information as shared with Pegu and our partners
 may be subject to the laws of jurisdictions outside your own, and those laws
 may not afford the same privacy and data protection laws as your home
-jurisdiction’s, particularly regarding demands or requests for information from
+jurisdiction's, particularly regarding demands or requests for information from
 government entities. By using our Service, you agree that your information may
 be collected, transferred, stored, and processed in the United States and in
 other countries.
@@ -368,10 +368,10 @@ other countries.
 If you have suggestions questions about this Privacy Policy, you can contact us
 at:
 
-**Mail:**  
-Pegu Labs, LLC  
-102 Prospect Place  
-Brooklyn, NY 11217  
+**Mail:**    
+Pegu Labs, LLC    
+102 Prospect Place    
+Brooklyn, NY 11217    
 
-**Email:**  
+**Email:**    
 [feedback@pegulabs.com](mailto:feedback@pegulabs.com)
