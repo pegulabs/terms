@@ -1,5 +1,5 @@
 # Pegu Terms of Service
-## January 3, 2013
+##### January 3, 2013
 
 ## Summary
     
