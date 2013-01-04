@@ -7,5 +7,5 @@ Right now we're keeping track of our [Terms of Service](/pegulabs/terms/blob/mas
 
 Thanks for reading! And if you have questions or concerns you can always contact us at [feedback@pegulabs.com](mailto:feedback@pegulabs.com).
 
-Sincerely,
+Sincerely,  
 Your friends at Team Pegu
