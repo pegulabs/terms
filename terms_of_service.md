@@ -1064,7 +1064,7 @@ will be deemed void. Except as provided in the preceding sentence, this
 "Dispute Resolution" section 6.14 will survive any termination of this
 Agreement.
 
-*Arbitration Rules and Governing Law.*
+*Arbitration Rules and Governing Law.*  
 Arbitration will be administered by the American Arbitration Association
 (**"AAA"**) in accordance with the Commercial Arbitration Rules and the
 Supplementary Procedures for Consumer Related Disputes (the **"AAA
@@ -1074,7 +1074,7 @@ section 6.14. (The AAA Rules are available at
 1-800-778-7879.) The Federal Arbitration Act will govern the interpretation
 and enforcement of this section.
 
-*Arbitration Process.*
+*Arbitration Process.*  
 A party who desires to initiate arbitration must provide the other party
 with a written Demand for Arbitration as specified in the AAA Rules. (The
 AAA provides a form Demand for Arbitration at
@@ -1085,7 +1085,7 @@ dispute arbitrators. If the parties cannot agree upon an arbitrator within
 seven (7) days of delivery of the Demand for Arbitration, then the AAA will
 appoint the arbitrator in accordance with the AAA Rules.
 
-*Arbitration Location and Procedure.*
+*Arbitration Location and Procedure.*  
 Unless you and Pegu otherwise agree, the arbitration will be conducted in
 the county where you reside. If your claim does not exceed ten thousand
 U.S. dollars ($10,000), then the arbitration will be conducted solely on
@@ -1097,7 +1097,7 @@ arbitrator will have the discretion to direct a reasonable exchange of
 information by the parties, consistent with the expedited nature of the
 arbitration.
 
-*Arbitrator's Decision.*
+*Arbitrator's Decision.*  
 The arbitrator will render an award within the time frame specified in the
 AAA Rules. The arbitrator's decision will include the essential findings
 and conclusions upon which the arbitrator based the award. Judgment on the
@@ -1111,7 +1111,7 @@ individual claim. If you prevail in arbitration you will be entitled to an
 award of attorneys' fees and expenses, to the extent provided under
 applicable law.
 
-*Fees.*
+*Fees.*  
 Your responsibility to pay any AAA filing, administrative and arbitrator
 fees will be solely as set forth in the AAA Rules. However, if your claim
 for damages does not exceed seventy five thousand U.S. dollars ($75,000),
@@ -1120,7 +1120,7 @@ substance of your claim or the relief sought in your Demand for Arbitration
 was frivolous or was brought for an improper purpose (as measured by the
 standards set forth in Federal Rule of Civil Procedure 11(b)).
 
-*Changes.*
+*Changes.*  
 Notwithstanding the provisions of the "Digital Communication and
 Modifications" section 1.3, should we amend this "Dispute Resolution"
 section 6.14 at a point in which you had already accepted this Agreement
