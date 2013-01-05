@@ -1165,3 +1165,8 @@ Brooklyn, NY 11217
 
 **Email:**    
 [feedback@pegulabs.com](mailto:feedback@pegulabs.com)
+
+## Link to old versions
+
+If you'd like to see older versions of the Terms and track what has changed,
+we've posted our revision history on [GitHub](https://github.com/pegulabs/terms).
