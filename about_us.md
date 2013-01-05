@@ -9,8 +9,8 @@ the right place because Pegu is for you. Internet searches are too time
 consuming, impersonal and spotty. On Pegu, a trusted and trained perspective
 from a vetted expert is quick and affordable.
 
-If you've found your way here on your own, Pegu is currently in a closed alpha.
-But, if you're interested in getting expert advice custom tailored to the
-situations that you run into on a daily basis, we'd love to hear from you.
-Email [feedback@pegulabs.com](mailto:feedback@pegulabs.com) for more. We hope
-to be expanding very soon.
+Pegu is currently in public beta. Use the links above to find experts and ask
+them for advice, or even apply to become an expert yourself! We look forward to
+hearing from you, feel free to send us a note at [feedback@pegulabs.com]
+(mailto:feedback@pegulabs.com) with ideas, issues, or anything you like, really.
+Thanks for reading!
