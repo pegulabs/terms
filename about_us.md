@@ -11,6 +11,6 @@ from a vetted expert is quick and affordable.
 
 Pegu is currently in public beta. Use the links above to find experts and ask
 them for advice, or even apply to become an expert yourself! We look forward to
-hearing from you, feel free to send us a note at [feedback@pegulabs.com]
-(mailto:feedback@pegulabs.com) with ideas, issues, or anything you like, really.
-Thanks for reading!
+hearing from you, feel free to send us a note at
+[feedback@pegulabs.com](mailto:feedback@pegulabs.com) with ideas, issues, or
+anything you like, really.  Thanks for reading!
