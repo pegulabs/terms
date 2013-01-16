@@ -1,5 +1,7 @@
 # Pegu Community Guidelines
 
+Our community guidelines help keep Pegu safe and clean. Please give them a read. Some of what you read here repeats ideas you've read in the [Terms of Service](/terms) and [Privacy Policy](/privacy). Keep in mind that these are guidelines to make the service better, but the Terms and Privacy Policy are the legal contracts that govern use of Pegu.
+
 ## 1. Guidelines for everyone who uses Pegu
 
 The guidelines in this section are our general community guidelines for using Pegu. It addresses some basic do’s and don’ts as well as common questions that might come up using the service. If you have any questions or think something’s missing or unclear, email us at [feedback@pegulabs.com](mailto:feedback@pegulabs.com) and let us know!
