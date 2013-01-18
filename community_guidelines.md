@@ -8,8 +8,8 @@ legal contracts that govern use of Pegu.
 
 ## 1. Guidelines for everyone who uses Pegu
 
-The guidelines in this section are our general community guidelines for using
-Pegu. It addresses some basic do’s and don’ts as well as common questions that
+The guidelines in this section are our general community rules for using Pegu.
+They addresses some basic do’s and don’ts as well as common questions that
 might come up using the service. If you have any questions or think something’s
 missing or unclear, email us at
 [feedback@pegulabs.com](mailto:feedback@pegulabs.com) and let us know!
@@ -18,7 +18,7 @@ missing or unclear, email us at
 * Share links to other resources (even you think they might be competitive with
   Pegu) that can help another user with their issue.
 * Tell us if something’s going wrong. You can reach us at
-  [peguapp.com/help](https://www.peguapp.com/help/)
+  [peguapp.com/help](https://www.peguapp.com/help).
 * Let us know if you are unsatisfied with an answer or interaction you’ve had
   on Pegu. Use the help link above or just email
   [feedback@pegulabs.com](mailto:feedback@pegulabs.com).
