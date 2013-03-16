@@ -21,7 +21,7 @@ deleting, using, combining, disclosing and transferring information within our
 organization or among our affiliates within the United States or
 internationally.
 
-Pegu, found at [https://www.peguapp.com/](https://www.peguapp.com/), is owned
+Pegu, found at [https://www.pegu.me/](https://www.pegu.me/), is owned
 and operated by Pegu Labs, LLC.
 
 ## 1. The basics
