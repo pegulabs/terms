@@ -102,7 +102,7 @@ ultimately we think of Pegu as offering a **"Service"** and we'll refer
 collectively to the various form factors, products, and services that
 comprise the offering as such throughout this document. Individually, the
 Service consists of the **"Site,"** which can be accessed at
-[peguapp.com](http://www.peguapp.com/) or other websites on which we may
+[pegu.me](http://www.pegu.me/) or other websites on which we may
 make the Service available and the **"App,"** which describes any and all
 applications for mobile devices and tablets on which the Service is
 available. Thematically, the Service is an online venue that connects
@@ -129,7 +129,7 @@ if you see capitalized words and aren't sure what they mean) and
 constitutes a binding legal agreement between you and Pegu.
 
 We ask that you to read carefully both the Terms here and our Privacy
-Policy at [peguapp.com/privacy](/privacy).  If you do not agree to the
+Policy at [pegu.me/privacy](/privacy).  If you do not agree to the
 Agreement, that's okay, but you can't use the Service.
 
 As part of the Service, Providers may create Business Cards as part of
@@ -220,7 +220,7 @@ Pegu in consideration of the Service.
 Account that Members can change to modify their experience on the Service.
 
 **"Site"** refers to any and all web-based applications of the Service,
-including peguapp.com and any other website on which we make the Service
+including pegu.me and any other website on which we make the Service
 available.
 
 **"SN"** refers to third party social networking sites. With certain sites
@@ -811,7 +811,7 @@ would just be mean.
   
 ### 6.1 Privacy Policy
     
-You can find Pegu's Privacy Policy at [www.peguapp.com/privacy](/privacy)
+You can find Pegu's Privacy Policy at [www.pegu.me/privacy](/privacy)
 for information and notices concerning Pegu's collection and use of your
 personal information.
     
