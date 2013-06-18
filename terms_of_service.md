@@ -198,7 +198,8 @@ without limitation, Clients and Providers.
 **"Member Content"** covers all Content created by a Member on the Service
 and includes, without limitation, Business Cards.
 
-**"advicedrop"** is shorthand for Pegu Labs, LLC, the owner of the Service.
+**"advicedrop"** refers to both the product at [www.advicedrop.com](https://www.advicedrop.com)
+and Pegu Labs, LLC, the owner of the Service.
 
 **"advicedrop Account"** refers to the account profile completed by Members
 during account registration.
@@ -555,7 +556,7 @@ consideration of access to the Service.
 As a Provider, you may cancel an Exchange without penalty at any time.
 
 If you believe you have been improperly charged and require a refund,
-please contact us at [feedback@pegulabs.com](mailto:feedback@pegulabs.com).
+please contact us at [feedback@advicedrop.com](mailto:feedback@advicedrop.com).
     
 ### 3.4 Tax responsibility
     
@@ -616,7 +617,7 @@ legally obligated to pay you. Likewise, you would remain liable for all
 amounts you owe to advicedrop hereunder.
 
 You may cancel your advicedrop Account at any time by contacting advicedrop at
-[feedback@pegulabs.com](mailto:feedback@pegulabs.com). We will typically
+[feedback@advicedrop.com](mailto:feedback@advicedrop.com). We will typically
 complete a cancellation within seven (7) business days after our receipt of
 your notice. Keep in mind that if your advicedrop Account is cancelled, we are
 not obligated to delete or return to you any Content you have posted to the
@@ -984,7 +985,7 @@ Cards associated with certain countries.
     
 We welcome and encourage you to provide feedback, comments and suggestions
 for improvements to the Service (things we like to call **"Feedback"**).
-Just email us at [feedback@pegulabs.com](mailto:feedback@pegulabs.com) to
+Just email us at [feedback@advicedrop.com](mailto:feedback@advicedrop.com) to
 send us Feedback. We love hearing from you! Of course, by doing so, you
 agree that such Feedback will be the sole and exclusive property of advicedrop
 and you hereby irrevocably assign to advicedrop and agree to irrevocably assign
@@ -1127,7 +1128,7 @@ section 6.14 at a point in which you had already accepted this Agreement
 and this section, you will be notified of the amendment in accordance with
 this Agreement. If your intent is to reject any such change, you must do so
 by sending us written notice (including by email to
-[feedback@pegulabs.com](mailto:feedback@pegulabs.com)) within 30 days of
+[feedback@advicedrop.com](mailto:feedback@advicedrop.com)) within 30 days of
 the date such change became effective, as indicated by the effective date
 listed at the top of the Terms or the date of advicedrop's email to you notifying
 you of such change. By rejecting any change, you are agreeing that you will
@@ -1164,7 +1165,7 @@ Pegu Labs, LLC
 Brooklyn, NY 11217    
 
 **Email:**    
-[feedback@pegulabs.com](mailto:feedback@pegulabs.com)
+[feedback@advicedrop.com](mailto:feedback@advicedrop.com)
 
 ## Link to old versions
 
