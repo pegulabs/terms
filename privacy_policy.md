@@ -21,7 +21,7 @@ deleting, using, combining, disclosing and transferring information within our
 organization or among our affiliates within the United States or
 internationally.
 
-advicedrop, found at [https://www.advicedrop..com/](https://www.advicedrop.com/), is owned
+advicedrop, found at [https://www.advicedrop.com/](https://www.advicedrop.com/), is owned
 and operated by Pegu Labs, LLC.
 
 ## 1. The basics
@@ -45,7 +45,7 @@ If we make any material changes we will notify you by email at the e-mail
 address associated with your advicedrop Account or with a conspicuous notice on the
 Site and App prior to the change becoming effective. Your continued use of the
 Service constitutes your consent to the changes. If you wish to opt out, you
-can email us at [feedback@pegulabs.com](mailto:feedback@pegulabs.com) and we
+can email us at [feedback@advicedrop.com](mailto:feedback@advicedrop.com) and we
 will respond to your request in a reasonable timeframe. However, we are not
 responsible for removing your Personal Information from third party partner
 databases.
@@ -56,7 +56,7 @@ As stated in the [Terms](/terms), our Service is not for children under 18. We
 do not knowingly collect Personal Information from persons under the age of 18.
 If you are a parent or guardian and find that your child has provided Personal
 Information on our Service, email us at
-[feedback@pegulabs.com](mailto:feedback@pegulabs.com). If we are informed that
+[feedback@advicedrop.com](mailto:feedback@advicedrop.com). If we are informed that
 a person under 18 has provided us with Personal Information, we'll make all
 reasonable efforts to delete such information from our databases.
 
@@ -214,7 +214,7 @@ one-time email inviting him or her to visit the site. We store that email
 address solely to send this one-time email.
 
 If you are the friend in this situation, you can contact us at
-[feedback@pegulabs.com](mailto:feedback@pegulabs.com) to request that we remove
+[feedback@advicedrop.com](mailto:feedback@advicedrop.com) to request that we remove
 your email address from our database.
 
 You may also import contacts from an address book to invite them to our
@@ -240,7 +240,7 @@ our users' needs.
 advicedrop may post testimonials on the Site or App. If you provide a testimonial and
 your consent, we may post it along with your name. If you change your mind and
 want a testimonial removed, contact us at
-[feedback@pegulabs.com](mailto:feedback@pegulabs.com).
+[feedback@advicedrop.com](mailto:feedback@advicedrop.com).
 
 ## 4. Sharing and disclosing your information
 
@@ -292,10 +292,10 @@ or to defend against legal claims.
 ## 5. Updating and deleting your information
 
 You can modify or delete Personal Information in your profile by contacting us
-at [feedback@pegulabs.com](mailto:feedback@pegulabs.com) or editing your
+at [feedback@advicedrop.com](mailto:feedback@advicedrop.com) or editing your
 profile directly via the Site or App. If you want your advicedrop Account
 deactivated, we promise not to cry and you can email us at
-[feedback@pegulabs.com](mailto:feedback@pegulabs.com). We will deactivate your
+[feedback@advicedrop.com](mailto:feedback@advicedrop.com). We will deactivate your
 account if we don't have a legal obligation or legitimate business reason to
 retain the information contained in your advicedrop Account. In either case, keep in
 mind that your Member Content will remain publicly viewable via the Site and
@@ -309,7 +309,7 @@ that we meet or exceed industry standards to protect your Personal Information,
 no method of transferring such information over the internet or storing it
 digitally is 100% secure, nor can we guarantee the absolute security of your
 information. If you have any questions about security on our Service, email us
-at [feedback@pegulabs.com](mailto:feedback@pegulabs.com).
+at [feedback@advicedrop.com](mailto:feedback@advicedrop.com).
 
 ### 6.1 General security
 
@@ -374,7 +374,7 @@ Pegu Labs, LLC
 Brooklyn, NY 11217    
 
 **Email:**    
-[feedback@pegulabs.com](mailto:feedback@pegulabs.com)
+[feedback@advicedrop.com](mailto:feedback@advicedrop.com)
 
 ## Link to old versions
 
