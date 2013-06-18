@@ -1,9 +1,9 @@
-# Pegu Privacy Policy
+# advicedrop Privacy Policy
 ##### January 4, 2012
 
 ## Summary
 
-Hi! You've found Pegu and our Privacy Policy. This document describes what
+Hi! You've found advicedrop and our Privacy Policy. This document describes what
 personal information you give us when you use the Service and what we're
 allowed to do with it. We take your privacy very seriously, so please read
 through the Privacy Policy to make sure we're on the same page. If you haven't
@@ -21,7 +21,7 @@ deleting, using, combining, disclosing and transferring information within our
 organization or among our affiliates within the United States or
 internationally.
 
-Pegu, found at [https://www.pegu.me/](https://www.pegu.me/), is owned
+advicedrop, found at [https://www.advicedrop..com/](https://www.advicedrop.com/), is owned
 and operated by Pegu Labs, LLC.
 
 ## 1. The basics
@@ -42,7 +42,7 @@ recommend that you read the privacy policies of each website that you visit.
 By using the Service you consent to this Privacy Policy. From time to time, we
 may update this Privacy Policy to reflect changes to our information practices.
 If we make any material changes we will notify you by email at the e-mail
-address associated with your Pegu Account or with a conspicuous notice on the
+address associated with your advicedrop Account or with a conspicuous notice on the
 Site and App prior to the change becoming effective. Your continued use of the
 Service constitutes your consent to the changes. If you wish to opt out, you
 can email us at [feedback@pegulabs.com](mailto:feedback@pegulabs.com) and we
@@ -67,7 +67,7 @@ better. That information can be classified in the following ways.
 
 ### 2.1 Personal Information
 
-**"Personal Information"** is information you provide to Pegu that can be used
+**"Personal Information"** is information you provide to advicedrop that can be used
 to identify you personally. You can take advantage of some basic features
 without providing Personal Information, but to register for the Service or take
 advantage of all the features, you'll need to provide additional information
@@ -110,7 +110,7 @@ or sections, information and terms you search for, Exchanges you complete,
 Providers that you use, and specific times that you access the Service. While
 we don't consider this information Personal Information, we may combine it with
 your Personal Information to serve you better. For example, we may store the
-Providers you use on a regular basis within your Pegu Account so you can access
+Providers you use on a regular basis within your advicedrop Account so you can access
 those Providers more easily later on.
 
 ### 2.5 Cookies
@@ -145,13 +145,13 @@ Twitter or LinkedIn account). If you do, you will be giving us access to some
 Personal Information contained in that SN Account (commonly your real name,
 email address, profile picture, friends or connections on that SN, groups
 you've joined on that SN, and other publicly available information you've added
-to that SN). We will use that Personal Information to create your Pegu Account,
+to that SN). We will use that Personal Information to create your advicedrop Account,
 and store such information on our Service. Some examples of Third Party
 Information we might use to improve your experience on the Service include:
 * We may check to see if any friends or connections of yours on a SN are also
-* Pegu Members. If we find a match, we can connect you with those friends
+* advicedrop Members. If we find a match, we can connect you with those friends
 * automatically.  We may use friend lists from a SN so that you can choose to
-* share your Pegu Account profile page with those friends using messages
+* share your advicedrop Account profile page with those friends using messages
 * specific to that SN service.
 
 Please remember that we do not control the privacy practices of these SN
@@ -178,13 +178,13 @@ notifications directly to your device via the App.
 
 ### 3.2 Profiles
 
-We use your Personal Information and Settings to create your Pegu Account and
+We use your Personal Information and Settings to create your advicedrop Account and
 profile page. Your profile page page may include, among other things, your
 first and last name, your profile picture and your location. You can include
 other items of Personal Information in your profile page as you choose –
 including, but not limited to, a list of the SN groups to which you belong, a
-list of your SN friends or connections who are also Members of Pegu, SNs you
-have connected to your Pegu Account, a bio, and links to your Business Cards,
+list of your SN friends or connections who are also Members of advicedrop, SNs you
+have connected to your advicedrop Account, a bio, and links to your Business Cards,
 if applicable (all such information comprises your profile information).
 Profile information you provide may be publicly visible to all users of the
 Service and consequently should reflect how much you want others to know about
@@ -237,7 +237,7 @@ our users' needs.
 
 ### 3.8 Testimonials
 
-Pegu may post testimonials on the Site or App. If you provide a testimonial and
+advicedrop may post testimonials on the Site or App. If you provide a testimonial and
 your consent, we may post it along with your name. If you change your mind and
 want a testimonial removed, contact us at
 [feedback@pegulabs.com](mailto:feedback@pegulabs.com).
@@ -268,7 +268,7 @@ information only to perform these tasks on our behalf.
 
 ### 4.3 Mergers and acquisitions
 
-If Pegu is acquired by or merged with another company or a similar corporate
+If advicedrop is acquired by or merged with another company or a similar corporate
 transaction takes place, we may share information about you with the other
 company. In such a case, we will notify you with a prominent notice on the Site
 or App or by sending notice to your email address listed in your account before
@@ -279,7 +279,7 @@ transferring your information.
 We may share information about you to prevent or take action regarding illegal
 activities, suspected fraud, situations involving potential threats to the
 physical safety or other rights and interests of any person, violations of
-Pegu's [Terms of Service](/terms), or as otherwise required by law or
+advicedrop's [Terms of Service](/terms), or as otherwise required by law or
 compulsory legal process.
 
 ### 4.5 Compliance
@@ -293,17 +293,17 @@ or to defend against legal claims.
 
 You can modify or delete Personal Information in your profile by contacting us
 at [feedback@pegulabs.com](mailto:feedback@pegulabs.com) or editing your
-profile directly via the Site or App. If you want your Pegu Account
+profile directly via the Site or App. If you want your advicedrop Account
 deactivated, we promise not to cry and you can email us at
 [feedback@pegulabs.com](mailto:feedback@pegulabs.com). We will deactivate your
 account if we don't have a legal obligation or legitimate business reason to
-retain the information contained in your Pegu Account. In either case, keep in
+retain the information contained in your advicedrop Account. In either case, keep in
 mind that your Member Content will remain publicly viewable via the Site and
 App.
 
 ## 6. Security measures
 
-To protect your privacy and information, Pegu uses multiple security procedures
+To protect your privacy and information, advicedrop uses multiple security procedures
 and practices to protect the Personal Information of users. While we believe
 that we meet or exceed industry standards to protect your Personal Information,
 no method of transferring such information over the internet or storing it
@@ -324,12 +324,12 @@ provider. Access to the host environment is secure.
 
 We're particularly concerned and cognizant of both identity theft in general
 and the practice known as "phishing" specifically. **We will never request your
-credit card or banking information, your Pegu Account ID, login password, or
+credit card or banking information, your advicedrop Account ID, login password, or
 any other private Personal Information in a non-secure or unsolicited email or
-phone call.** If someone claiming to represent Pegu does ask for such
+phone call.** If someone claiming to represent advicedrop does ask for such
 information unsolicited, DO NOT provide it.
 
-### 6.3 What happens on Pegu stays on Pegu
+### 6.3 What happens on advicedrop stays on advicedrop
 
 Communications and Exchanges should be performed exclusively using our Service.
 Keeping communication within the Service protects you and your information. Do
@@ -352,10 +352,10 @@ is clear.
 
 ## 7. Jurisdictions and international transfer
 
-Pegu operates in the United States and processes information described in this
+advicedrop operates in the United States and processes information described in this
 policy here in the U.S. Additionally, we work and share data as described in
 this policy with third parties who may perform their activities in other
-countries. As a result, your information as shared with Pegu and our partners
+countries. As a result, your information as shared with advicedrop and our partners
 may be subject to the laws of jurisdictions outside your own, and those laws
 may not afford the same privacy and data protection laws as your home
 jurisdiction's, particularly regarding demands or requests for information from
