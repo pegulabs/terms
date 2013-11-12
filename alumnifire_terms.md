@@ -388,8 +388,8 @@ recognize that they exist to protect the quality of the Service, Members on the
 Service, and your experiences and interactions with both.
 
 If you decide to offer products or services through the Sevice, you agree that
-you cannot alter the price or financial terms of an Exchange with a Client after
-the Client has requested the Exchange.
+you cannot alter the price or financial terms of an Exchange after a Member has
+requested the Exchange.
 
 Any additional Content supplied as a result of creating a product or service
 offering shall be considered Member Content for purposes of these Terms. More
@@ -412,11 +412,11 @@ that otherwise may harm the Service.
 ### 3.1 Offering paid products and services
     
 When another Member wants to purchase an offering from you via the Service, we
-will share with you the username of the Client and the details of his or her
+will share with you the username of the Member and the details of his or her
 request. Such notification may come via email, text message, Tweet, or App
 notification.
 
-For simplicity, we'll refer to the amount a Client must pay associated with
+For simplicity, we'll refer to the amount a Member must pay associated with
 an Exchange as the **"Exchange Fee."** Exchange Fees may be set by Alumnifire or
 directly by the provider of an offering, and are listed on the Service in U.S.
 dollars. Where applicable, Members that offer services on the Service that are
@@ -429,7 +429,7 @@ Also associated with an Exchange is the **"Service Fee"** collected by Alumnifir
 in consideration of the Service. The Service Fee is calculated based on a
 percentage of Exchange Fees collected on your behalf, and listed directly on the
 Service. When you complete an Exchange, we calculate the Exchange Fee and Service
-Fee, collect the Exchange Fee from the Client, deduct the applicable Service Fee,
+Fee, collect the Exchange Fee, deduct the applicable Service Fee,
 and remit the balance of the Exchange Fee to you via a third party payments provider,
 ACH transfer (automated clearing house) or such other payment methods as may be
 listed on the Site or via the App, in U.S. dollars. Except as otherwise provided
@@ -494,7 +494,7 @@ a precedent for similar situations in the future.
 
 Under any circumstance, though, your satisfaction is our utmost priority and we may
 offer additional services as an alternative to a refund including, but not limited
-to, Alumnifire Content or the ability to transfer the Exchange to another Provider
+to, Alumnifire Content or the ability to transfer the Exchange to another Member
 on the Service. We may offer a reduced Exchange Fee, and specific terms would be
 listed in communication you receive from us in such cases.
 
@@ -632,9 +632,7 @@ agree that you will not:
 * recruit or otherwise solicit any other Member to join third party
   services that are competitive to Alumnifire, without Alumnifire's prior written
   approval;
-* contact a Provider for any purpose other than the purposes explicitly
-  provided in the Terms;
-* contact a Client for any purpose other than the purposes explicitly
+* contact a Member for any purpose other than the purposes explicitly
   provided in the Terms;
 * circumvent the obligation to pay any fees related to Alumnifire's provision
   of the Service by creating an Exchange outside the Service;
