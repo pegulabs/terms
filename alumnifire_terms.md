@@ -1,7 +1,7 @@
-# Alumnifire Terms of Service
+### Alumnifire Terms of Service
 ##### November 11, 2013
 
-## Summary
+#### Summary
     
 Welcome! You've discovered Alumnifire and our Terms of Service. It's our contract
 with you describing the rules for using Alumnifire. While you may want to
@@ -21,7 +21,7 @@ this as the Cliffs Notes covering some of the important concepts. It's not
 all-inclusive and won't get you an A on the test (did we mention there's a test?),
 but it's a useful reference to guide your reading or help you recall certain parts.
 
-### 1. The Basics
+##### 1. The Basics
 The "Basics" section includes the general acceptance provision, some key words
 used throughout the Terms, and a provision for how we'll communicate with you when
 we modify the Terms. A couple of important concepts to watch out for as you read
@@ -30,7 +30,7 @@ by using the Service; and, also like many other online services, we are growing 
 changing rapidly and need to update our Terms from time to time as a result. If you
 keep using the Service after an update, you're agreeing to the new Terms.
     
-### 2. The Service
+##### 2. The Service
 Section 2 offers more detail about how the Service actually works. There is
 information about how to create accounts and the confidentiality of what you do on
 the Service. In section 2, we also describe our Service as a "venue." In other
@@ -42,7 +42,7 @@ because, ultimately, you're at your own risk. There may be places on the Site or
 where we provide guidelines to help you to protect yourself, but those never absolve
 you of taking responsibility for your use of the Service.
     
-### 3. Financial Terms
+##### 3. Financial Terms
 While we don't do it now, the Service may at some point allow you to offer products
 or services for pay, so we need a section to describe how the transactions within the
 Service are handled. One specific point to keep in mind is that what you do on the
@@ -50,7 +50,7 @@ Service may have Tax implications for you personally. We can't really help you f
 that stuff out, so you'll need to seek whatever Tax counsel you normally do if you
 plan to be making money on the Service.
     
-### 4. User Policies
+##### 4. User Policies
 Our user policies describe who can use the Service, how they are expected to use it,
 and a few things about how we think about their responsibility and ours for what
 goes on. To use the Service, you need to be 18 and legally capable of signing a
@@ -61,7 +61,7 @@ law, steal things, or deceive people. We aren't endorsing or verifying anyone on
 Service, so use good judgment.  There's a lot of "Golden Rule" and "be smart" stuff
 captured in section 4.
     
-### 5. Licenses and Ownership
+##### 5. Licenses and Ownership
 Section 5 covers some intellectual property concepts, as they relate to software that
 we create and Content that both we and users create. This section establishes what
 we're all allowed to do with that intellectual property. A specific provision to think
@@ -69,7 +69,7 @@ about is the rights that you give Alumnifire when you upload Content to our Serv
 We need to capture a lot of rights to what you upload so that we can safely provide
 the Service, and we list those rights in section 5.
     
-### 6. General Provisions
+##### 6. General Provisions
 The last section, 6, captures a number of different legal concepts that can really be
 best described as "miscellaneous." Running a company and operating a Service is a
 complex business, and there are lots of statements we need to make to protect
@@ -83,9 +83,9 @@ less information specific to the way our Service operates.
 Okay, now now that you've got a few things in mind to watch out for, on with the show!
 The complete Terms follow.
     
-## 1. The Basics
+#### 1. The Basics
   
-### 1.1 Accepting the Terms
+##### 1.1 Accepting the Terms
     
 While you're likely reading this on the Alumnifire website or mobile application, we
 think of Alumnifire as offering a **"Service"** and we'll refer collectively to the
@@ -129,7 +129,7 @@ We don't control users' conduct on the Service or any information provided in
 connection thereto, so to protect ourselves we must disclaim liability in this
 regard.
 
-### 1.2 Key words
+##### 1.2 Key words
     
 We use this list of key words to keep track of words and phrases we repeat
 over and over again throughout the Agreement. You'll recognize key words
@@ -223,7 +223,7 @@ income taxes.
 
 **"Terms"** is shorthand for these Terms of Service.
 
-### 1.3 Communicating with us digitally
+##### 1.3 Communicating with us digitally
     
 When you visit the Site or App or send us e-mails, you are communicating
 with Alumnifire digitally. By doing this, you're agreeing to receive
@@ -234,7 +234,7 @@ to tell you something, we'll either send you an e-mail or post notices on
 the Site or App. If you register for an account on Alumnifire, you agree to keep
 your email associated with the Alumnifire Account current.
     
-### 1.4 Modifying this Agreement
+##### 1.4 Modifying this Agreement
     
 Alumnifire is a young and growing company, and as such we may need to update this
 Agreement from time to time. When we do this, we promise not to keep it a
@@ -243,9 +243,9 @@ effective date listed at the top. Once that happens, the new Agreement goes
 into effect immediately, and if you continue using the Service we'll take that
 to mean your acceptance of the new Agreement.
     
-## 2. The Service
+#### 2. The Service
   
-### 2.1 Alumnifire is a venue
+##### 2.1 Alumnifire is a venue
     
 Alumnifire is a venue. What we mean by this is that while we provide the
 offerings defined by the Service, it's Members of the Service, not Alumnifire,
@@ -291,7 +291,7 @@ and disclaims any and all liability related to Member Content and information
 provided under the Service. Accordingly, Members use the service at their
 own risk.
     
-### 2.2 Your communications are not confidential
+##### 2.2 Your communications are not confidential
     
 We promise to be clear with you and tell you how you can expect your
 information to be used when using the Service.  We've even got a great
@@ -307,7 +307,7 @@ such do not include safeguards and procedures typical of in-person
 evaluations and visits. Additionally, your communications and Content may
 be indexed by search engines or otherwise publicly exposed.
 
-### 2.3 Registering for an account on the Service
+##### 2.3 Registering for an account on the Service
     
 If you visit the Site or App without registering for the Service, you'll be
 able to see limited Content; however, to use the full functionality of the Service
@@ -367,7 +367,7 @@ responsibility for any activities or actions under your Alumnifire Account,
 regardless of whether you have authorized such activities or actions. If you
 detect unauthorized use of your Alumnifire Account, notify us immediately.
     
-### 2.4 Offering paid products and services
+##### 2.4 Offering paid products and services
     
 As of the date on these Terms, we do not support the ability to offer paid
 products and services as a Member of the Service. However, we may in the future,
@@ -407,9 +407,9 @@ but are not limited to, Content considered objectionable by Alumnifire at our so
 discretion, Content or actions that violate these Terms, or Content or actions
 that otherwise may harm the Service.
     
-## 3. Financial Terms
+#### 3. Financial Terms
   
-### 3.1 Offering paid products and services
+##### 3.1 Offering paid products and services
     
 When another Member wants to purchase an offering from you via the Service, we
 will share with you the username of the Member and the details of his or her
@@ -436,7 +436,7 @@ listed on the Site or via the App, in U.S. dollars. Except as otherwise provided
 herein, Service Fees are non-refundable. Alumnifire's current third party payments
 provider is [Balanced Payments](http://www.balancedpayments.com/).
     
-### 3.2 Purchasing paid products and services
+##### 3.2 Purchasing paid products and services
     
 When you purchase an offering from another Member, recognize that you are agreeing
 to the financial terms described in this section 3.2. In addition to these Terms
@@ -481,7 +481,7 @@ before you use their services. We will provide you a transaction history
 for completed Exchanges either via email notification or a private
 dashboard on the Site or App.
     
-### 3.3 Requesting a refund
+##### 3.3 Requesting a refund
     
 Once you've selected and paid for a service or product offering, there may be rare
 cases in which the Member offering the product or Service clearly does not fulfill
@@ -511,7 +511,7 @@ consideration of access to the Service.
 If you believe you have been improperly charged and require a refund,
 please contact us at [feedback@alumnifire.com](mailto:feedback@alumnifire.com).
     
-### 3.4 Tax responsibility
+##### 3.4 Tax responsibility
     
 When money changes hands, rest assured that Uncle Sam will want his cut. By
 using the Service, you may create additional Tax reporting needs on
@@ -520,9 +520,9 @@ you recognize and agree that such needs are your responsibility alone. We
 cannot and do not offer Tax-related advice or reporting to any Members of
 the Service.
     
-## 4. User Policies
+#### 4. User Policies
   
-### 4.1 You must be 18 to enter
+##### 4.1 You must be 18 to enter
     
 While Alumnifire is not an "adult" Service, it is intended for adults age 18 or
 older. If you're younger than 18, you'll have to wait until you are 18 to use
@@ -532,7 +532,7 @@ contracts, and that your use of the Service and acceptance of these Terms do not
 violate any applicable laws, rules, regulations, Tax requirements, or agreements
 with third parties that bind you.
     
-### 4.2 Alumnifire doesn't endorse users or third parties
+##### 4.2 Alumnifire doesn't endorse users or third parties
     
 We're all adults here (if not, you should read section 4.1 again), so as
 adults we expect Members and users to use good judgment and take
@@ -556,7 +556,7 @@ App. Doing so is not an endorsement of any such third party, its products, or it
 services. You're on your own and must determine its suitability independently if
 you decide to utilize its products or services.
     
-### 4.3 Terminating and deactivating this Agreement and your account
+##### 4.3 Terminating and deactivating this Agreement and your account
     
 We may, in our discretion and without liability to you, with or without
 cause, with or without prior notice and at any time: (a) terminate these
@@ -573,7 +573,7 @@ your notice. Keep in mind that if your Alumnifire Account is cancelled, we are
 not obligated to delete or return to you any Content you have posted to the
 Service, including, but not limited to, any reviews or Feedback.
     
-### 4.4 How you're expected to conduct yourself on the Service
+##### 4.4 How you're expected to conduct yourself on the Service
     
 Alumnifire can't possibly know the situation of every single user of the Service,
 and as such we can't guarantee that your use of the Service won't violate
@@ -683,9 +683,9 @@ Collective Content that Alumnifire, at its sole discretion, considers to be
 objectionable for any reason, in violation of these Terms or otherwise
 harmful to the Service, or just plain disgusting.
     
-## 5. Licenses and Ownership
+#### 5. Licenses and Ownership
   
-### 5.1 License to use the App
+##### 5.1 License to use the App
     
 Assuming you comply with the Agreement, Alumnifire grants you a non-exclusive,
 non-transferable, revocable limited license to access and use the App using
@@ -693,7 +693,7 @@ a mobile or desktop device solely for your own personal use. You agree you won't
 the App for any other purpose and that you have no additional rights in the
 App other than those defined explicitly here in section 5.1.
     
-### 5.2 License to access and view Content
+##### 5.2 License to access and view Content
     
 Assuming you comply with the Agreement, Alumnifire grants you a non-exclusive,
 non-transferable, revocable limited license, to (i) access and view any
@@ -710,7 +710,7 @@ publicly display, publicly perform, transmit, broadcast or otherwise
 exploit the Service or Collective Content, except as expressly permitted in
 these Terms.
     
-### 5.3 Content that you create
+##### 5.3 Content that you create
     
 Alumnifire is designed to allow you to post, upload, publish, submit or transmit
 Member Content. When you do so, you own that Content, but you also grant
@@ -737,7 +737,7 @@ patent, copyright, trademark, trade secret, moral rights or other
 proprietary or intellectual property rights, or rights of publicity or
 privacy, or result in the violation of any applicable law or regulation.
     
-### 5.4 Even more about licenses
+##### 5.4 Even more about licenses
     
 Section 5 describes all applicable licenses granted to you as a
 Terms-abiding user of our Service. No licenses or rights other than those
@@ -745,7 +745,7 @@ explicitly defined in this section 5 are granted to you by implication or
 otherwise under any intellectual property rights owned or controlled by
 Alumnifire or its licensors.
     
-### 5.5 We own the Service
+##### 5.5 We own the Service
     
 The Service and Collective Content are protected by copyright, trademark,
 and other laws of the United States and foreign countries. Accepting the
@@ -756,15 +756,15 @@ any copyright, trademark, service mark or other proprietary rights notices
 incorporated in or accompanying the Service or Collective Content. That
 would just be mean.
     
-## 6. General Provisions
+#### 6. General Provisions
   
-### 6.1 Privacy Policy
+##### 6.1 Privacy Policy
     
 You can find Alumnifire's Privacy Policy at [www.alumnifire.com/privacy](/privacy)
 for information and notices concerning Alumnifire's collection and use of your
 personal information.
     
-### 6.2 Links to other sites and services
+##### 6.2 Links to other sites and services
     
 You may find links to third-party websites or resources on the Service or
 as part of Collective Content. Alumnifire, of course, doesn't control the
@@ -777,7 +777,7 @@ our endorsement of them or their content, products, or services.
 Consequently, you're at your own risk if you utilize any of the offerings
 of such third parties.
     
-### 6.3 Notice about proprietary rights and trademarks
+##### 6.3 Notice about proprietary rights and trademarks
     
 Any trademarks, service marks, logos, trade names and other proprietary
 designations of Alumnifire that you see here in the Terms are trademarks or
@@ -786,14 +786,14 @@ trade names and other proprietary designations of others that you see in
 other places on the Site or App are their trademarks or registered
 trademarks.
     
-### 6.4 Infringing copyright
+##### 6.4 Infringing copyright
     
 Alumnifire respects copyright law and expects its users to do the same. We're a
 respectful bunch. It is Alumnifire's policy to terminate in appropriate
 circumstances the Alumnifire Accounts of Members who infringe or are believed to
 be infringing the rights of copyright holders.
     
-### 6.5 Disclaimers galore
+##### 6.5 Disclaimers galore
     
 And you thought we had disclaimed and waived liability for everything we
 possibly could at this point. Joking aside, we include this section to
@@ -838,7 +838,7 @@ Agreement in any way.
   by Alumnifire. Alumnifire does not make any attempt to verify the statements of
   users of the Service.**
     
-### 6.6 Limitation of liability
+##### 6.6 Limitation of liability
     
 This section includes a fair bit of legalese, so we'll provide plain
 English translations to help you comprehend the terms. The translations are
@@ -892,7 +892,7 @@ Translation: If bad things (again "damages") happen to you and Alumnifire is
 found to be responsible and liable, the most you can ask for is your money
 back that you've spent with Alumnifire in the preceding year.
     
-### 6.7 Indemnification
+##### 6.7 Indemnification
     
 You agree to release, indemnify, and hold Alumnifire and its affiliates and
 subsidiaries, and their officers, directors, employees and agents, harmless
@@ -908,7 +908,7 @@ and settlement activities.
 Bottom line: we aren't responsible for your actions if they get you into
 trouble, and you'll cover any resulting losses we may suffer.
     
-### 6.8 Export control and restricted countries
+##### 6.8 Export control and restricted countries
     
 You may not and will not use, export, re-export, import, or transfer the
 App except as authorized by United States law, the laws of the jurisdiction
@@ -926,7 +926,7 @@ already agreed several times now in this Agreement not to break the law.
 Consistent with U.S. embargo restrictions, Alumnifire does not permit offerings
 associated with certain countries.
     
-### 6.9 Give us feedback! And also report misconduct
+##### 6.9 Give us feedback! And also report misconduct
     
 We welcome and encourage you to provide feedback, comments and suggestions
 for improvements to the Service (things we like to call **"Feedback"**).
@@ -949,7 +949,7 @@ engages in any other disturbing conduct, you should immediately report such
 person to the appropriate authorities and to Alumnifire. Let's keep the Service
 clean.
     
-### 6.10 You cannot assign or transfer this Agreement
+##### 6.10 You cannot assign or transfer this Agreement
     
 You may not assign or transfer these Terms, by operation of law or
 otherwise, without Alumnifire's prior written consent. If you try to do so
@@ -958,7 +958,7 @@ Alumnifire may assign or transfer these Terms, at its sole discretion, without
 restriction. Subject to the foregoing, these Terms will bind and inure to
 the benefit of the parties, their successors and permitted assigns.
     
-### 6.11 We will notify you of changes
+##### 6.11 We will notify you of changes
     
 Unless otherwise specified herein, any notices or other communications
 permitted or required hereunder, including those regarding modifications to
@@ -967,7 +967,7 @@ case to the email address associated with your Alumnifire Account) or (ii) by
 posting to the Site or App. If we go the email route, the date of receipt
 will be deemed the date on which such notice is transmitted.
     
-### 6.12 Severability of the Agreement
+##### 6.12 Severability of the Agreement
     
 This Agreement is intended to govern the agreement between you and Alumnifire in
 accordance with and to the extent permitted by all applicable laws,
@@ -980,7 +980,7 @@ the application of such provision to other persons or circumstances shall
 not be affected thereby, but rather shall be enforced to the greatest
 extent permitted by law.
     
-### 6.13 New York law governs this Agreement
+##### 6.13 New York law governs this Agreement
     
 Alumnifire is based in Brooklyn, so we use New York law to govern our operations.
 Thus, the law of the State of New York (without reference to its choice of
@@ -989,7 +989,7 @@ we agree to submit to the personal jurisdiction of a state court located in
 Kings County, New York for all matters arising in connection with these
 Terms or your use of the Service.
     
-### 6.14 Dispute resolution process
+##### 6.14 Dispute resolution process
     
 You and Alumnifire agree that any dispute, claim or controversy arising from or
 relating to this Agreement, the breach, termination, enforcement,
@@ -1082,7 +1082,7 @@ provisions of this "Dispute Resolution" section 6.14 as of the date you
 first accepted these Terms or accepted any subsequent changes to these
 Terms.
     
-### 6.15 This Agreement is the entire Agreement
+##### 6.15 This Agreement is the entire Agreement
     
 This Agreement constitutes the entire and exclusive understanding and
 agreement between Alumnifire and you regarding the Site, App, Service, Collective
@@ -1091,7 +1091,7 @@ this Agreement supersedes and replaces any and all prior oral or written
 understandings or agreements between you and Alumnifire regarding the same. This
 is the whole shebang.
     
-### 6.16 If we don't enforce our rights, it doesn't forego or reduce our rights
+##### 6.16 If we don't enforce our rights, it doesn't forego or reduce our rights
     
 If we fail to enforce any right or provision of this Agreement, such action
 does not constitute a waiver of future enforcement of that right or
@@ -1100,7 +1100,7 @@ authorized representative of Alumnifire. Our rights and remedies under this
 Agreement are cumulative and the exercise of any such right or remedy does
 not limit our ability to exercise any other such right or remedy.
     
-## 7. Get in touch with us
+#### 7. Get in touch with us
     
 If you have suggestions or questions about these Terms, you can contact us at:
 
@@ -1112,7 +1112,7 @@ Brooklyn, NY 11217
 **Email:**    
 [feedback@alumnifire.com](mailto:feedback@alumnifire.com)
 
-## Link to old versions
+#### Link to old versions
 
 If you'd like to see older versions of the Terms and track what has changed,
 we've posted our revision history on [GitHub](https://github.com/pegulabs/terms).
