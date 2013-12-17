@@ -6,10 +6,10 @@ We plan to maintain a revision history of those documents here so you can see ho
 seems only fair.
 
 Right now we're keeping track of:
-* the Advicedrop [Terms of Service](/pegulabs/terms/blob/master/terms_of_service.md),
-* the Advicedrop [Privacy Policy](/pegulabs/terms/blob/master/privacy_policy.md),
-* the Alumnifire [Terms of Service](/pegulabs/terms/blob/master/alumnifire_terms.md), and
-* the Alumnifire [Privacy Policy](/pegulabs/terms/blob/master/alumnifire_privacy.md),
+* the Advicedrop [Terms of Service](/terms_of_service.md),
+* the Advicedrop [Privacy Policy](/privacy_policy.md),
+* the Alumnifire [Terms of Service](/alumnifire_terms.md), and
+* the Alumnifire [Privacy Policy](/alumnifire_privacy.md),
 
 but we may add other important documents here over time.
 
