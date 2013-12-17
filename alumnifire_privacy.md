@@ -1,7 +1,7 @@
-# Alumnifire Privacy Policy
+### Alumnifire Privacy Policy
 ##### November 12, 2012
 
-## Summary
+#### Summary
 
 Hi! You've found Alumnifire and our Privacy Policy. This document describes what
 personal information you give us when you use the Service and what we're
@@ -24,9 +24,9 @@ internationally.
 Alumnifire, found at [https://www.alumnifire.com/](https://www.alumnifire.com/), is owned
 and operated by Pegu Labs, LLC.
 
-## 1. The basics
+#### 1. The basics
 
-### 1.1 Scope of the policy
+##### 1.1 Scope of the policy
 
 The Privacy Policy applies only to information that you provide us through our
 Service. Our Service may contain links to other websites or services. In
@@ -37,7 +37,7 @@ any information collected on that website, because we are not responsible for
 the privacy practices, security, or content of those other websites. We
 recommend that you read the privacy policies of each website that you visit.
 
-### 1.2. Updates to the policy
+##### 1.2. Updates to the policy
 
 By using the Service you consent to this Privacy Policy. From time to time, we
 may update this Privacy Policy to reflect changes to our information practices.
@@ -50,7 +50,7 @@ will respond to your request in a reasonable timeframe. However, we are not
 responsible for removing your Personal Information from third party partner
 databases.
 
-### 1.3 Protection for children
+##### 1.3 Protection for children
 
 As stated in the [Terms](/terms), our Service is not for children under 18. We
 do not knowingly collect Personal Information from persons under the age of 18.
@@ -60,12 +60,12 @@ Information on our Service, email us at
 a person under 18 has provided us with Personal Information, we'll make all
 reasonable efforts to delete such information from our databases.
 
-## 2. The types of information we collect about you
+#### 2. The types of information we collect about you
 
 The reason we collect any information at all from you is to make our Service
 better. That information can be classified in the following ways.
 
-### 2.1 Personal Information
+##### 2.1 Personal Information
 
 **"Personal Information"** is information you provide to Alumnifire that can be used
 to identify you personally. You can take advantage of some basic features
@@ -80,7 +80,7 @@ that qualifies as Personal Information, such as:
   billing address and other billing details, bank account number, or bank routing number;
 * biographic information like your skills, certifications, interests, needs, or expertise.
 
-### 2.2 Settings
+##### 2.2 Settings
 
 **"Settings"** are pieces of information that you provide to us that cannot
 identify you personally, but are associated with your Personal Information.
@@ -90,7 +90,7 @@ information to tailor the Service to you specifically, and we may also
 aggregate this information with other users' information to analyze the
 performance of the Service.
 
-### 2.3 Log Data
+##### 2.3 Log Data
 
 **"Log Data"** are pieces of information sent to us from your browser when you
 visit our service. These may include your computer's IP address, your browser
@@ -102,7 +102,7 @@ may modify the Site for the specific browser you are using. We do not treat Log
 Data as Personal Information or use it in association with other Personal
 Information, though we may aggregate, analyze and evaluate such information.
 
-### 2.4 Interactive Information
+##### 2.4 Interactive Information
 
 **"Interactive Information"** is information that you provide us through your
 interactions on the Site or App. This information may include which pages or
@@ -114,7 +114,7 @@ with your Personal Information to serve you better. For example, we may store th
 Members with whom you communicate on a regular basis within your Alumnifire Account
 so you can access those Members more easily later on.
 
-### 2.5 Cookies
+##### 2.5 Cookies
 
 **"Cookies"** are small data files that we transfer to your computer for
 record-keeping. Cookie usage is common practice for many websites. We utilize
@@ -128,7 +128,7 @@ settings to stop accepting cookies entirely or prompt you before accepting a
 cookie from websites you visit. Choosing not to accept cookies may affect the
 functionality of the Service.
 
-### 2.6 Web Beacons
+##### 2.6 Web Beacons
 
 **"Web Beacons"** are electronic images (sometimes called single-pixel gifs)
 used along with cookies to compile aggregated statistics to analyze the
@@ -137,7 +137,7 @@ example, we may include Web Beacons in emails that we send you to let us know
 whether or not you open them. This can help us evaluate the success of
 marketing campaigns and make them better.
 
-### 2.7 Third Party Information
+##### 2.7 Third Party Information
 
 **"Third Party Information"** is information about you made available from
 third-party sources. As described in the [Terms](/terms), you can register to
@@ -161,14 +161,14 @@ services, and we encourage you to read their respective privacy policies. You
 may want to take another look at our [Terms of Service](/terms) (section 2) to
 see our rules and rights that cover the use of Third Party Information
 
-## 3. How we'll use your information
+#### 3. How we'll use your information
 
 We use your information only 1) as described in this Privacy Policy, 2) as
 described to you on the Site or App at the time you provide it, 3) in other
 ways with your express consent, or 4) as required by law or compulsory legal
 process. We use your information to provide the following services to you.
 
-### 3.1 Notifications
+##### 3.1 Notifications
 
 We may send you notifications based on your Personal Information and Settings.
 Notifications let you know about new messages associated with an Exchange,
@@ -178,7 +178,7 @@ mobile phone number, or Twitter handle associated with your Personal Information
 to send you email, text message (SMS), or tweet notifications. If you download
 the App we may send notifications directly to your device via the App.
 
-### 3.2 Profiles
+##### 3.2 Profiles
 
 We use your Personal Information and Settings to create your Alumnifire Account and
 profile page. Your profile page page may include, among other things, your
@@ -194,13 +194,13 @@ others to know about you. Be careful and protect information you consider sensit
 and wouldn't want made public. You can always edit your profile information via the
 Service.
 
-### 3.3 Paid product and service offerings
+##### 3.3 Paid product and service offerings
 
 If you offer paid products and services through the Service, we may publish, use,
 share or otherwise disclose the Content of that offering publicly via the Service
 and may enable third parties to publish the offering on their websites.
 
-### 3.4 Marketing
+##### 3.4 Marketing
 
 We may also use your Personal Information to contact you with newsletters,
 marketing or promotional materials and other Content that may be of interest to
@@ -208,7 +208,7 @@ you. You can opt out of marketing-related communications by changing your
 Settings. Note that you cannot opt out of communications related to your use of
 the Service, which we may send from time to time.
 
-### 3.5 Referrals
+##### 3.5 Referrals
 
 You may also choose to use our referral service to ask a friend for a
 recommendation or testimonial, or to recommend our Service to them. In such
@@ -224,28 +224,28 @@ You may also import contacts from an address book to invite them to our
 Service. In such case we collect, but do not store, the username and password
 for the associated email account and will use it for that purpose only.
 
-### 3.6 Requests
+##### 3.6 Requests
 
 We may use information you provide to fulfill your requests for products,
 services and information. For example, if you send an email to our customer
 service address, it's pretty likely we'll respond to the email address you used
 to reach us.
 
-### 3.7 Analysis
+##### 3.7 Analysis
 
 In order to learn more about how our Service is used, we aggregate and perform
 data analysis on the information we collect. Such analysis helps us improve the
 functionality of the Service and better tailor our content and product to suit
 our users' needs.
 
-### 3.8 Testimonials
+##### 3.8 Testimonials
 
 Alumnifire may post testimonials on the Site or App. If you provide a testimonial and
 your consent, we may post it along with your name. If you change your mind and
 want a testimonial removed, contact us at
 [feedback@alumnifire.com](mailto:feedback@alumnifire.com).
 
-## 4. Sharing and disclosing your information
+#### 4. Sharing and disclosing your information
 
 We share or disclose your information only 1) as described in this Privacy
 Policy, 2) as described to you on the Site or App at the time you provide it,
@@ -253,7 +253,7 @@ Policy, 2) as described to you on the Site or App at the time you provide it,
 compulsory legal process. We make your information available to other
 companies, services, or people in the following cases.
 
-### 4.1 Analysis
+##### 4.1 Analysis
 
 We may share aggregated information with third parties for analysis such as
 industry analysis, demographic profiling, payment processing, customer service
@@ -262,14 +262,14 @@ shared in these contexts is limited to Settings Log Data, Interactive
 Information, or information derived from Cookies or Web Beacons. Such
 information will be aggregated and will not contain your Personal Information.
 
-### 4.2 Third party services
+##### 4.2 Third party services
 
 We may employ third party companies and individuals to perform Site or App
 maintenance, database management, analytics support, data processing or email
 and text message distribution. These third parties have access to your
 information only to perform these tasks on our behalf.
 
-### 4.3 Mergers and acquisitions
+##### 4.3 Mergers and acquisitions
 
 If Alumnifire is acquired by or merged with another company or a similar corporate
 transaction takes place, we may share information about you with the other
@@ -277,7 +277,7 @@ company. In such a case, we will notify you with a prominent notice on the Site
 or App or by sending notice to your email address listed in your account before
 transferring your information.
 
-### 4.4 Legal investigations
+##### 4.4 Legal investigations
 
 We may share information about you to prevent or take action regarding illegal
 activities, suspected fraud, situations involving potential threats to the
@@ -285,14 +285,14 @@ physical safety or other rights and interests of any person, violations of
 Alumnifire's [Terms of Service](/terms), or as otherwise required by law or
 compulsory legal process.
 
-### 4.5 Compliance
+##### 4.5 Compliance
 
 We may share information about you for legal compliance in response to
 subpoenas, search warrants, judicial proceedings, court orders, legal process,
 or other law enforcement measures, to establish or exercise our legal rights,
 or to defend against legal claims.
 
-## 5. Updating and deleting your information
+#### 5. Updating and deleting your information
 
 You can modify or delete Personal Information in your profile by contacting us
 at [feedback@alumnifire.com](mailto:feedback@alumnifire.com) or editing your
@@ -304,7 +304,7 @@ retain the information contained in your Alumnifire Account. In either case, kee
 mind that your Member Content will remain publicly viewable via the Site and
 App.
 
-## 6. Security measures
+#### 6. Security measures
 
 To protect your privacy and information, Alumnifire uses multiple security procedures
 and practices to protect the Personal Information of users. While we believe
@@ -314,7 +314,7 @@ digitally is 100% secure, nor can we guarantee the absolute security of your
 information. If you have any questions about security on our Service, email us
 at [feedback@alumnifire.com](mailto:feedback@alumnifire.com).
 
-### 6.1 General security
+##### 6.1 General security
 
 When you enter Personal Information on our Service, we encrypt that information
 using secure socket layer technology (SSL). SSL is a web security standard that
@@ -323,7 +323,7 @@ protects your data from unauthorized access. Your Personal Information is
 password-protected and our main servers are locked and hosted by a leading
 provider. Access to the host environment is secure.
 
-### 6.2 Phishing
+##### 6.2 Phishing
 
 We're particularly concerned and cognizant of both identity theft in general
 and the practice known as "phishing" specifically. **We will never request your
@@ -332,7 +332,7 @@ any other private Personal Information in a non-secure or unsolicited email or
 phone call.** If someone claiming to represent Alumnifire does ask for such
 information unsolicited, DO NOT provide it.
 
-### 6.3 What happens on Alumnifire stays on Alumnifire
+##### 6.3 What happens on Alumnifire stays on Alumnifire
 
 Communications and Exchanges should be performed exclusively using our Service.
 Keeping communication within the Service protects you and your information. Do
@@ -340,7 +340,7 @@ not request personal email addresses, Skype usernames, or other personal
 contact details from other users of the Service. Sharing personal information
 with and contacting other users outside of the Service may put you at risk.
 
-### 6.4 Disclosure of breaches
+##### 6.4 Disclosure of breaches
 
 We will of course make any legally required disclosures of any breach of the
 security, confidentiality, or integrity of your unencrypted electronically
@@ -353,7 +353,7 @@ integrity of the Service. In other words, if we need to stay quiet about a
 breach to help the good guys catch the bad ones, we'll do that until the coast
 is clear.
 
-## 7. Jurisdictions and international transfer
+#### 7. Jurisdictions and international transfer
 
 Alumnifire operates in the United States and processes information described in this
 policy here in the U.S. Additionally, we work and share data as described in
@@ -366,7 +366,7 @@ government entities. By using our Service, you agree that your information may
 be collected, transferred, stored, and processed in the United States and in
 other countries.
 
-## 8. Get in touch with us
+#### 8. Get in touch with us
 
 If you have suggestions questions about this Privacy Policy, you can contact us
 at:
@@ -379,7 +379,7 @@ Brooklyn, NY 11217
 **Email:**    
 [feedback@alumnifire.com](mailto:feedback@alumnifire.com)
 
-## Link to old versions
+#### Link to old versions
 
 If you'd like to see older versions of the Privacy Policy and track what has changed,
 we've posted our revision history on [GitHub](https://github.com/pegulabs/terms)
