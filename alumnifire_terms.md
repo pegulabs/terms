@@ -812,8 +812,7 @@ provide this translation to help you read the Terms more easily, but it
 does not limit the legal definition of "warranty" with respect to this
 Agreement in any way.
 
-* **Alumnifire has no obligation to conduct background checks on any Member.
-  However, we may conduct background checks from time to time at our own discretion.**
+* **Alumnifire has no obligation to conduct background checks on any Member.**
 * **The Service and Collective Content are provided "as is," without
   warranty of any kind, either express or implied.**
 * **Without limiting the foregoing, Alumnifire explicitly disclaims any
