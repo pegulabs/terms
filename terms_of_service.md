@@ -257,11 +257,11 @@ your email associated with the advicedrop Account current.
 ### 1.4 Modifying this Agreement
     
 advicedrop is a young and growing company, and as such we may need to update this
-Agreement from time to time. When we do this, we promise not to keep it a
-secret. We'll post the modified Terms to the Site and App and update the
-effective date listed at the top. Once that happens, the new Agreement goes
-into effect immediately, and if you continue using the Service we'll assume
-your acceptance of the new Agreement.
+Agreement (including the Privacy Policy) from time to time. When we do this, we
+promise not to keep it a secret. We'll post the modified Terms and/or Privacy Policy
+to the Site and App and update the effective date listed at the top. Once that
+happens, the new Agreement goes into effect immediately, and if you continue using
+the Service we'll take that to mean your acceptance of the new Agreement.
     
 ## 2. The Service
   
@@ -865,8 +865,7 @@ does not limit the legal definition of "warranty" with respect to this
 Agreement in any way.
 
 * **advicedrop has no obligation to conduct background checks on any Member,
-  including, but not limited to, Clients and Providers. However, we may
-  conduct background checks from time to time at our own discretion.**
+  including, but not limited to, Clients and Providers.**
 * **The Service and Collective Content are provided "as is," without
   warranty of any kind, either express or implied.**
 * **Without limiting the foregoing, advicedrop explicitly disclaims any
