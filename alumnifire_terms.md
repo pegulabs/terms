@@ -237,7 +237,7 @@ your email associated with the Alumnifire Account current.
 ##### 1.4 Modifying this Agreement
     
 Alumnifire is a young and growing company, and as such we may need to update this
-Agreement (including the Privacy Policy from time to time. When we do this, we
+Agreement (including the Privacy Policy) from time to time. When we do this, we
 promise not to keep it a secret. We'll post the modified Terms and/or Privacy Policy
 to the Site and App and update the effective date listed at the top. Once that
 happens, the new Agreement goes into effect immediately, and if you continue using
