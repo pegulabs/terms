@@ -245,6 +245,13 @@ your consent, we may post it along with your name. If you change your mind and
 want a testimonial removed, contact us at
 [feedback@alumnifire.com](mailto:feedback@alumnifire.com).
 
+##### 3.9 Third Party Users
+
+We may allow third parties who did not attend your particular school, such as recruiters,
+to access and use the Service. In such a case, we may allow those third parties to view
+part or all of your public profile on Alumnifire. Limit your profile information to only
+information you're comfortable sharing with such third parties.
+
 #### 4. Sharing and disclosing your information
 
 We share or disclose your information only 1) as described in this Privacy
