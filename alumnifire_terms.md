@@ -311,7 +311,7 @@ be indexed by search engines or otherwise publicly exposed.
     
 If you visit the Site or App without registering for the Service, you'll be
 able to see limited Content; however, to use the full functionality of the Service
-including, but not limited to, creating an Exchange, you'll first need a Alumnifire
+including, but not limited to, creating an Exchange, you'll first need an Alumnifire
 Account. You may register directly via the Site or App or as described in this
 section.
 
