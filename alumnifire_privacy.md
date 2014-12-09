@@ -30,8 +30,8 @@ and operated by Pegu Labs, LLC.
 
 The Privacy Policy applies only to information that you provide us through our
 Service. Our Service may contain links to other websites or services. In
-particular, we currently use a partner named Balanced Payments (and in the
-future may use others) to handle financial transactions. If you visit another
+particular, we may leverage a partner's technology to handle financial transactions
+or other specific types of interactions for our platform. If you visit another
 website through a link on our Service, this Privacy Policy will not apply to
 any information collected on that website, because we are not responsible for
 the privacy practices, security, or content of those other websites. We
@@ -52,13 +52,17 @@ databases.
 
 ##### 1.3 Protection for children
 
-As stated in the [Terms](/terms), our Service is not for children under 18. We
-do not knowingly collect Personal Information from persons under the age of 18.
+As stated in the [Terms](/terms), our Service is not for children under 13. We
+do not knowingly collect Personal Information from persons under the age of 13.
+Additionally, parental consent is required for anyone younger than 18 to use the
+Service.
+
 If you are a parent or guardian and find that your child has provided Personal
-Information on our Service, email us at
+Information on our Service without your consent, email us at
 [feedback@alumnifire.com](mailto:feedback@alumnifire.com). If we are informed that
-a person under 18 has provided us with Personal Information, we'll make all
-reasonable efforts to delete such information from our databases.
+a person under 13 has provided us with Personal Information, or that a person under
+18 has done so without parental consent, we'll make all reasonable efforts to delete
+such information from our databases.
 
 #### 2. The types of information we collect about you
 
@@ -77,8 +81,19 @@ that qualifies as Personal Information, such as:
   profile picture;
 * login information like your username and password;
 * payment information like your credit card number, expiration date, security code,
-  billing address and other billing details, bank account number, or bank routing number;
-* biographic information like your skills, certifications, interests, needs, or expertise.
+  billing address and other billing details, bank account number, or bank routing
+  number;
+* biographic information like your skills, certifications, interests, needs, or
+  expertise.
+
+To make the Service useful, some of your personal information will be made available
+to other Members and users via our website, any applications that we build, or social
+media pages that we maintain. We do this so that other users and members of your alumni
+community can find you and communicate with you. As an example, we'll list your name,
+class year, picture, and biographic information for other users in searches and other
+sections of our site. While we allow users to contact you through the service, we do
+not share actual contact information like your email address or phone number with other
+users.
 
 ##### 2.2 Settings
 
@@ -95,12 +110,13 @@ performance of the Service.
 **"Log Data"** are pieces of information sent to us from your browser when you
 visit our service. These may include your computer's IP address, your browser
 type, other webpages you've visited or transactions you've completed, certain
-demographic information like your physical location, and other statistics. We
-collect and use this information to help understand and analyze the performance
-of our Service and better tailor the experience to users' needs. For example, we
-may modify the Site for the specific browser you are using. We do not treat Log
-Data as Personal Information or use it in association with other Personal
-Information, though we may aggregate, analyze and evaluate such information.
+demographic information like your physical location, and other statistics. Log
+Data is not considered personal information or treated as such, but we may use
+your Log Data in conjunction with personal information to improve your
+experience on the Service. We collect and use this information to help
+understand and analyze the performance of our Service and better tailor the
+experience to users' needs. For example, we may modify the Site for the specific
+browser you are using.
 
 ##### 2.4 Interactive Information
 
@@ -339,7 +355,7 @@ any other private Personal Information in a non-secure or unsolicited email or
 phone call.** If someone claiming to represent Alumnifire does ask for such
 information unsolicited, DO NOT provide it.
 
-##### 6.3 What happens on Alumnifire stays on Alumnifire
+##### 6.3 Protect your information: keep communication within the platform
 
 Communications and Exchanges should be performed exclusively using our Service.
 Keeping communication within the Service protects you and your information. Do
