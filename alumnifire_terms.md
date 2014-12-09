@@ -53,7 +53,7 @@ plan to be making money on the Service.
 ##### 4. User Policies
 Our user policies describe who can use the Service, how they are expected to use it,
 and a few things about how we think about their responsibility and ours for what
-goes on. To use the Service, you need to be 18 and legally capable of signing a
+goes on. To use the Service, you need to be 13 and legally capable of signing a
 contract. You also need to make sure that agreeing to our Terms and using the Service
 doesn't break any laws or rules that you need to be following. When you use the
 Service, you're responsible for your actions. You can't use the Service to break the
@@ -522,24 +522,27 @@ the Service.
     
 #### 4. User Policies
   
-##### 4.1 You must be 18 to enter
+##### 4.1 You must be 13 to enter
     
-While Alumnifire is not an "adult" Service, it is intended for adults age 18 or
-older. If you're younger than 18, you'll have to wait until you are 18 to use
-the Service. Life is like that. By continuing to access and use the Service you
-represent and warrant that you are 18 or older and able to form legally binding
-contracts, and that your use of the Service and acceptance of these Terms do not
-violate any applicable laws, rules, regulations, Tax requirements, or agreements
-with third parties that bind you.
+Alumnifire is intended for teens and adults age 13 or older. If you're younger
+than 13, you'll have to wait until you are 13 to use the Service. Life is like
+that. By continuing to access and use the Service you represent and warrant that
+you are 13 or older and able to form legally binding contracts, and that your use
+of the Service and acceptance of these Terms do not violate any applicable laws,
+rules, regulations, Tax requirements, or agreements with third parties that bind
+you. Additionally, if you are younger than 18, you'll need parental consent in
+order to upload your personal information and agree to the Terms and Privacy Policy.
+You cannot use the Service without such consent.
     
 ##### 4.2 Alumnifire doesn't endorse users or third parties
     
-We're all adults here (if not, you should read section 4.1 again), so as
-adults we expect Members and users to use good judgment and take
-responsibility for their own actions. Alumnifire does not endorse any of its
-Members. While Members are required to provide accurate information, we do
-not confirm any Member's identity or credentials. You are responsible for
-determining the suitability of others who you contact via the Service.
+We're all adults here (or at least operating with adult supervision, anyway -- if
+not you should re-read section 4.1), and as such we expect Members and users to
+use good judgment and take responsibility for their own actions. Alumnifire does
+not endorse any of its Members. While Members are required to provide accurate
+information, we do not confirm any Member's identity or credentials. You are
+responsible for determining the suitability of others who you contact via the
+Service.
 
 We do not guarantee that you will receive a response from another Member, or
 that you will be satisfied with Exchanges or Member Content. You can read our
