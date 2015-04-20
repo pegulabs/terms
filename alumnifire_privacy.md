@@ -449,7 +449,7 @@ regarding demands or requests for information from government entities. By using
 our Service, you agree that your information may be collected, transferred, stored,
 and processed in the United States and in other countries.
 
-#### 8. Partner organization
+#### 8. Partner organizations
 
 We currently partner with the following organizations, and share user data with
 them by default:
