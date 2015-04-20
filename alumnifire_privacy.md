@@ -149,11 +149,12 @@ are they treated as such.
 
 ##### 2.4 Interactive Information
 
-**"Interactive Information"** when you do something on the site, the fact that you
-did something constitutes Interactive Information. This could be pages you visit,
-the amount of time you spend on those pages, search terms that you enter, Exchanges
-that you complete, Members with whom you communicate, specific times you access the
-Service, or other things. Interactive Information alone is not Personal Information.
+**"Interactive Information"** is how you interact with the site. When you do
+something on the site, the fact that you did something constitutes Interactive
+Information. This could be pages you visit, the amount of time you spend on those
+pages, search terms that you enter, Exchanges that you complete, Members with whom
+you communicate, specific times you access the Service, or other things. Interactive
+Information alone is not Personal Information.
 
 ##### 2.5 Cookies
 
@@ -277,7 +278,7 @@ want a testimonial removed, contact us.
 ##### 3.7 Requests
 
 You may send us requests from time to time, like a request for a demonstration of
-the Service, for a request for help navigating the site or to report a bug, or a
+the Service, or a request for help navigating the site or to report a bug, or a
 request for us to create an Alumnifire site for your organization. When you do,
 you'll need to enter certain details and contact information, which we will use to
 contact you. In most cases, such information will be sent to the Alumnifire team,
@@ -333,7 +334,7 @@ and data would contain aggregated and anonymized Log Data and Interactive
 Information. While the employees of such an organization would have access to your
 public profile and the Personal Information within by visiting the Service, we
 would only transfer your Personal Information to them with your express, opt-in
-consent.
+consent, except for those organizations listed in section 8.
 
 #### 4. Sharing and disclosing your information
 
