@@ -457,8 +457,9 @@ Currently, if you sign into any of the following Alumnifire sites, you will opt-
 share your Personal Information with the underlying organization by default. You may
 always elect to opt-out of sharing your Personal Information.
 
-Alumnifire site: [https://4as-maip.alumnifire.com](https://4as-maip.alumnifire.com)
-Underlying institution: American Association of Advertising Agencies (The 4A's)
+MAIP Program:
+* Alumnifire site: [https://4as-maip.alumnifire.com](https://4as-maip.alumnifire.com)
+* Underlying institution: American Association of Advertising Agencies (The 4A's)
 
 #### 9. Get in touch with us
 
