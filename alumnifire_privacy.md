@@ -327,14 +327,15 @@ Service. In such a case, we may allow those third parties to view part or all of
 your public profile on Alumnifire. Limit your profile information to only
 information you're comfortable sharing with such third parties.
 
-We also may partner with a school or organization who manages an alumni community.
-If we do, we may offer the school or organization access to analytics and data
-about the performance of our Service within their alumni community. Such analytics
-and data would contain aggregated and anonymized Log Data and Interactive
-Information. While the employees of such an organization would have access to your
-public profile and the Personal Information within by visiting the Service, we
-would only transfer your Personal Information to them with your express, opt-in
-consent, except for those organizations listed in section 8.
+We also have relationships with schools and organizations that manage alumni
+communities. In these cases, we may offer the school or organization access to
+analytics and data about the performance of our Service within their specific alumni
+community. Such analytics and data would contain aggregated and anonymized Log Data
+and Interactive Information. While the employees of such an organization would have
+access to your public profile and the Personal Information within by visiting the
+Service, we would only transfer additional Personal Information to them with your
+express, opt-in consent, except for those organizations listed in section 8, as
+described in section 3.1.
 
 #### 4. Sharing and disclosing your information
 
@@ -450,10 +451,11 @@ regarding demands or requests for information from government entities. By using
 our Service, you agree that your information may be collected, transferred, stored,
 and processed in the United States and in other countries.
 
-#### 8. Partner organizations
+#### 8. Current customers with default opt-in information sharing
 
-We currently partner with the following organizations, and share user data with
-them by default:
+Currently, if you sign into any of the following Alumnifire sites, you will opt-in to
+share your Personal Information with the underlying organization by default. You may
+always elect to opt-out of sharing your Personal Information.
 
 * American Association of Advertising Agencies (The 4A's):
 [https://4as-maip.alumnifire.com](https://4as-maip.alumnifire.com)
