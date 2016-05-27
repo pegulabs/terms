@@ -719,11 +719,10 @@ Alumnifire is designed to allow you to post, upload, publish, submit or transmit
 Member Content. When you do so, you own that Content, but you also grant
 Alumnifire a worldwide, irrevocable, perpetual, non-exclusive, transferable,
 royalty-free license, with the right to sublicense, to use, view, copy,
-adapt, modify, distribute, license, sell, transfer, publicly display,
-publicly perform, transmit, stream, broadcast, access, view, and otherwise
-exploit such Member Content on, through, or by means of the Service.
-Nothing in these Terms will be deemed to restrict any rights that you may
-have to use and exploit any such Member Content.
+adapt, modify, distribute, transfer, publicly display, publicly perform, transmit,
+stream, broadcast, access, view, and otherwise exploit such Member Content on,
+through, or by means of the Service. Nothing in these Terms will be deemed to
+restrict any rights that you may have to use and exploit any such Member Content.
 
 You are also responsible for any Member Content that you create or publish
 on the Service. Thus, when adding that Content to the Service, you're
