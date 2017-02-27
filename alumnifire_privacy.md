@@ -462,6 +462,10 @@ MAIP Program:
 * Alumnifire site: [https://4as-maip.alumnifire.com](https://4as-maip.alumnifire.com)
 * Underlying institution: American Association of Advertising Agencies (The 4A's)
 
+University of Denver:
+
+* Alumnifire site: [https://du.alumnifire.com](https://du.alumnifire.com)
+
 #### 9. Get in touch with us
 
 If you have suggestions or questions about this Privacy Policy, you can contact us
