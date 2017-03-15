@@ -462,9 +462,21 @@ MAIP Program:
 * Alumnifire site: [https://4as-maip.alumnifire.com](https://4as-maip.alumnifire.com)
 * Underlying institution: American Association of Advertising Agencies (The 4A's)
 
+Revolve Community:
+
+* Alumnifire site: [https://revolvecommunity.alumnifire.com](https://revolvecommunity.alumnifire.com)
+
 University of Denver:
 
 * Alumnifire site: [https://du.alumnifire.com](https://du.alumnifire.com)
+
+Bryant University:
+
+* Alumnifire site: [https://bryant.alumnifire.com](https://bryant.alumnifire.com)
+
+Episcopal Academy:
+
+* Alumnifire site: [https://episcopalacademy.alumnifire.com](https://episcopalacademy.alumnifire.com)
 
 #### 9. Get in touch with us
 
