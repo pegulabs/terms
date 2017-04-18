@@ -478,6 +478,10 @@ Episcopal Academy:
 
 * Alumnifire site: [https://episcopalacademy.alumnifire.com](https://episcopalacademy.alumnifire.com)
 
+Ohio State University:
+
+* Alumnifire site: [https://osu.alumnifire.com](https://osu.alumnifire.com)
+
 #### 9. Get in touch with us
 
 If you have suggestions or questions about this Privacy Policy, you can contact us
