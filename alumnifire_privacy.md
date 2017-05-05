@@ -1,5 +1,5 @@
 ### Alumnifire Privacy Policy
-##### April 20, 2015
+##### May 1, 2017
 
 Alumnifire, found at [https://www.alumnifire.com](/), is owned and operated by Pegu
 Labs, LLC.
