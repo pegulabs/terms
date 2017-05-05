@@ -1,5 +1,5 @@
 ### Alumnifire Terms of Service
-##### November 11, 2013
+##### May 1, 2017
 
 #### Summary
     
