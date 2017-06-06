@@ -482,6 +482,10 @@ Ohio State University:
 
 * Alumnifire site: [https://osu.alumnifire.com](https://osu.alumnifire.com)
 
+University School:
+
+* Alumnifire site: [https://us.alumnifire.com](https://us.alumnifire.com)
+
 #### 9. Get in touch with us
 
 If you have suggestions or questions about this Privacy Policy, you can contact us
