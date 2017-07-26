@@ -149,11 +149,6 @@ Supplementary Procedures for Consumer Related Disputes.
 **"Agreement"** refers collectively to the Terms, Privacy Policy, and any
 other rules, policies, or disclaimers posted on the Service.
 
-**"Alum,"** **"Alumnus,"** **"Alumna,"** **"Alums,"** or **"Alumni"** refer
-to singular or plural users of the Service who are graduates of a particular
-institution (commonly one of higher education) served by Alumnifire. Alumni
-use the service to connect with each other for advice, jobs, and mentorship.
-
 **"App"** refers to any and all native mobile, tablet, or desktop applications
 of the Service.
 
@@ -168,7 +163,7 @@ to this Agreement, the breach, termination, enforcement, interpretation or
 validity thereof, or your use of the Service.
 
 **"Exchange"** describes the information exchange or other transactional
-interactions between Alumni facilitated by the Service.
+interactions between Members facilitated by the Service.
 
 **"Exchange Fee"** refers to any applicable transaction charge paid in
 consideration of the advice and information provided as part of an Exchange.
@@ -255,11 +250,11 @@ to exchange information, 2) scheduling Exchanges, 3) providing email notificatio
 of updates associated with an Exchange, 4) hosting Collective Content, 5) integrating
 with payment collection and distribution services, and 6) otherwise facilitating
 Exchanges. Alumnifire is not a party to Exchanges or any other conversations between
-Alumni.
+Members.
 
 Alumnifire is not required to verify the credentials of or information provided by
 any of its Members, but, because we're nice guys, we strive to ensure the validity of
-Alumni on the Service so you can feel good about using it. Keep in mind, Members are
+Members on the Service so you can feel good about using it. Keep in mind, Members are
 not employees or agents of Alumnifire. Being a venue means that Alumnifire is not
 responsible for Member Content, any other Content or information provided as part of
 an Exchange or any other communication or agreements between Members, or liable for
