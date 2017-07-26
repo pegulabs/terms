@@ -1,5 +1,5 @@
 ### Alumnifire Terms of Service
-##### May 1, 2017
+##### July 26, 2017
 
 #### Summary
 
@@ -467,13 +467,11 @@ In order to charge you, we or our third party payments processor will ask
 you to provide customary billing information such as name, billing address
 and credit card information. You agree to pay Alumnifire for any completed
 Exchanges in accordance with these Terms by one of the methods described on
-the Site or App, for example by using our current third party payments
-provider, [Balanced Payments](http://www.balancedpayments.com/). You hereby
-authorize the collection of such amounts by charging the credit card
-provided as part of requesting the Exchange, either directly by Alumnifire or
-indirectly, via a third party payment processor or by one of the payment
-methods described on the Site or App. If you are directed to Alumnifire's third
-party payment processor, you may be subject to terms and conditions
+the Site or App,. You hereby authorize the collection of such amounts by charging
+the credit card provided as part of requesting the Exchange, either directly by
+Alumnifire or indirectly, via a third party payment processor or by one of the
+payment methods described on the Site or App. If you are directed to Alumnifire's
+third party payment processor, you may be subject to terms and conditions
 governing use of that third party's service and that third party's personal
 information collection practices, and you will want to review those terms
 before you use their services. We will provide you a transaction history
