@@ -486,6 +486,10 @@ University School:
 
 * Alumnifire site: [https://us.alumnifire.com](https://us.alumnifire.com)
 
+Southern Intercollegiate Athletic Association:
+
+* Alumnifire site: [https://siac.alumnifire.com](https://siac.alumnifire.com)
+
 #### 9. Get in touch with us
 
 If you have suggestions or questions about this Privacy Policy, you can contact us
