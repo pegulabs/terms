@@ -457,15 +457,6 @@ Currently, if you sign into any of the following Alumnifire sites, you will opt-
 share your Personal Information with the underlying organization by default. You may
 always elect to opt-out of sharing your Personal Information.
 
-MAIP Program:
-
-* Alumnifire site: [https://4as-maip.alumnifire.com](https://4as-maip.alumnifire.com)
-* Underlying institution: American Association of Advertising Agencies (The 4A's)
-
-Revolve Community:
-
-* Alumnifire site: [https://revolvecommunity.alumnifire.com](https://revolvecommunity.alumnifire.com)
-
 University of Denver:
 
 * Alumnifire site: [https://du.alumnifire.com](https://du.alumnifire.com)
@@ -474,21 +465,58 @@ Bryant University:
 
 * Alumnifire site: [https://bryant.alumnifire.com](https://bryant.alumnifire.com)
 
-Episcopal Academy:
-
-* Alumnifire site: [https://episcopalacademy.alumnifire.com](https://episcopalacademy.alumnifire.com)
-
 Ohio State University:
 
 * Alumnifire site: [https://osu.alumnifire.com](https://osu.alumnifire.com)
 
-University School:
+Bryant University:
 
-* Alumnifire site: [https://us.alumnifire.com](https://us.alumnifire.com)
+* Alumnifire site: [https://bryant.alumnifire.com](https://bryant.alumnifire.com)
+
+University of Virginia at Wise:
+
+* Alumnifire site: [https://uva-wise.alumnifire.com](https://uva-wise.alumnifire.com)
+
+Adelphi University:
+
+* Alumnifire site: [https://adelphi.alumnifire.com](https://adelphi.alumnifire.com)
+
+University of Texas:
+
+* Alumnifire site: [https://utexas.alumnifire.com](https://utexas.alumnifire.com)
+* Alumnifire site: [https://lbj.alumnifire.com](https://lbj.alumnifire.com)
+* Alumnifire site: [https://texaslaw.alumnifire.com](https://texaslaw.alumnifire.com)
+* Alumnifire site: [https://t-association.alumnifire.com](https://t-association.alumnifire.com)
+* Alumnifire site: [https://texasglobal.alumnifire.com](https://texasglobal.alumnifire.com)
 
 Southern Intercollegiate Athletic Association:
 
 * Alumnifire site: [https://siac.alumnifire.com](https://siac.alumnifire.com)
+
+Episcopal Academy:
+
+* Alumnifire site: [https://episcopalacademy.alumnifire.com](https://episcopalacademy.alumnifire.com)
+
+University School (Ohio):
+
+* Alumnifire site: [https://us.alumnifire.com](https://us.alumnifire.com)
+
+Westtown School:
+
+* Alumnifire site: [https://westtown.alumnifire.com](https://westtown.alumnifire.com)
+
+Phoenix Country Day School:
+
+* Alumnifire site: [https://pcds.alumnifire.com](https://pcds.alumnifire.com)
+
+MAIP Program:
+
+* Alumnifire site: [https://4as-maip.alumnifire.com](https://4as-maip.alumnifire.com)
+* Underlying institution: American Association of Advertising Agencies (The 4A's)
+
+Revolve Community:
+
+* Alumnifire site: [https://revolvecommunity.alumnifire.com](https://revolvecommunity.alumnifire.com)
 
 #### 9. Get in touch with us
 
