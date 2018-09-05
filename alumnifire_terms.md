@@ -96,8 +96,8 @@ which we may make the Service available and the **"App,"** which describes any a
 applications for mobile devices, tablets, and desktops on which the Service is
 available. Thematically, the Service is an online venue that connects **"Alumni"**, or
 graduates of an insitution (usually of higher learning) with one another to share
-advice, jobs, and mentorship. The Service is owned and operated by Pegu Labs, LLC,
-which we may refer to as **"Alumnifire,"** **"Pegu,"** **"we,"** **"us,"** or
+advice, jobs, and mentorship. The Service is owned and operated by Alumnifire, Inc.,
+which we may refer to as **"Alumnifire,"** **"we,"** **"us,"** or
 **"our"** for brevity.
 
 When you use the Service, even if you decide not to become a registered
@@ -178,7 +178,7 @@ process as described under "User Account Registration" below.
 **"Member Content"** covers all Content created by a Member on the Service.
 
 **"Alumnifire"** refers to both the product at [www.alumnifire.com](https://www.alumnifire.com)
-and Pegu Labs, LLC, the owner of the Service.
+and Alumnifire, Inc., the owner of the Service.
 
 **"Alumnifire Account"** refers to the account profile completed by Members
 during account registration.
@@ -1098,7 +1098,7 @@ not limit our ability to exercise any other such right or remedy.
 If you have suggestions or questions about these Terms, you can contact us at:
 
 **Mail:**
-Pegu Labs, LLC
+Alumnifire, Inc.
 39 Broadway, Suite 1908
 New York, NY 10006
 

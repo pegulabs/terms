@@ -1,8 +1,8 @@
 ### Alumnifire Privacy Policy
 ##### May 1, 2017
 
-Alumnifire, found at [https://www.alumnifire.com](/), is owned and operated by Pegu
-Labs, LLC.
+Alumnifire, found at [https://www.alumnifire.com](/), is owned and operated by
+Alumnifire, Inc.
 
 #### Intro
 
@@ -22,7 +22,7 @@ So, yeah, important stuff. Also, you'll want to read our [Terms of Service](/ter
 That document is our contract with you governing your use of Alumnifire. You can't
 use the Service without agreeing to it. It also incorporates this Policy by
 reference, and it defines a number of key words and definitions, which all mean the
-same things here in the Policy as they do in the Terms. 
+same things here in the Policy as they do in the Terms.
 
 Finally, before we get started, the terms **"using"** and **"processing"**
 information broadly refer to a collection of data activities. When we use those
@@ -457,78 +457,106 @@ Currently, if you sign into any of the following Alumnifire sites, you will opt-
 share your Personal Information with the underlying organization by default. You may
 always elect to opt-out of sharing your Personal Information.
 
-University of Denver:
-
-* Alumnifire site: [https://du.alumnifire.com](https://du.alumnifire.com)
-
-Bryant University:
-
-* Alumnifire site: [https://bryant.alumnifire.com](https://bryant.alumnifire.com)
-
-Ohio State University:
-
-* Alumnifire site: [https://osu.alumnifire.com](https://osu.alumnifire.com)
-
-Bryant University:
-
-* Alumnifire site: [https://bryant.alumnifire.com](https://bryant.alumnifire.com)
-
-University of Virginia at Wise:
-
-* Alumnifire site: [https://uva-wise.alumnifire.com](https://uva-wise.alumnifire.com)
-
 Adelphi University:
 
 * Alumnifire site: [https://adelphi.alumnifire.com](https://adelphi.alumnifire.com)
 
-University of Texas:
+Bryant University:
 
-* Alumnifire site: [https://utexas.alumnifire.com](https://utexas.alumnifire.com)
-* Alumnifire site: [https://lbj.alumnifire.com](https://lbj.alumnifire.com)
-* Alumnifire site: [https://texaslaw.alumnifire.com](https://texaslaw.alumnifire.com)
-* Alumnifire site: [https://t-association.alumnifire.com](https://t-association.alumnifire.com)
-* Alumnifire site: [https://texasglobal.alumnifire.com](https://texasglobal.alumnifire.com)
+* Alumnifire site: [https://bryant.alumnifire.com](https://bryant.alumnifire.com)
 
-Southern Intercollegiate Athletic Association:
+Dickinson College:
 
-* Alumnifire site: [https://siac.alumnifire.com](https://siac.alumnifire.com)
+* Alumnifire site: [https://dickinson.alumnifire.com](https://dickinson.alumnifire.com)
 
 Episcopal Academy:
 
 * Alumnifire site: [https://episcopalacademy.alumnifire.com](https://episcopalacademy.alumnifire.com)
 
-University School (Ohio):
+Florida Gulf Coast University:
 
-* Alumnifire site: [https://us.alumnifire.com](https://us.alumnifire.com)
+* Alumnifire site: [https://fgcu.alumnifire.com](https://fgcu.alumnifire.com)
 
-Westtown School:
+Hathaway Brown School:
 
-* Alumnifire site: [https://westtown.alumnifire.com](https://westtown.alumnifire.com)
-
-Phoenix Country Day School:
-
-* Alumnifire site: [https://pcds.alumnifire.com](https://pcds.alumnifire.com)
+* Alumnifire site: [https://hb.alumnifire.com](https://hb.alumnifire.com)
 
 MAIP Program:
 
 * Alumnifire site: [https://4as-maip.alumnifire.com](https://4as-maip.alumnifire.com)
 * Underlying institution: American Association of Advertising Agencies (The 4A's)
 
+Phoenix Country Day School
+
+* Alumnifire site: [https://pcds.alumnifire.com](https://pcds.alumnifire.com)
+
 Revolve Community:
 
 * Alumnifire site: [https://revolvecommunity.alumnifire.com](https://revolvecommunity.alumnifire.com)
+
+St. Paul's School:
+
+* Alumnifire site: [https://sps.alumnifire.com](https://sps.alumnifire.com)
+
+The Ohio State University:
+
+* Alumnifire site: [https://osu.alumnifire.com](https://osu.alumnifire.com)
+
+The Southern Intercollegiate Athletic Conference
+
+* Alumnifire site: [https://siac.alumnifire.com](https://siac.alumnifire.com)
+
+Trident University International:
+
+* Alumnifire site: [https://trident.alumnifire.com](https://trident.alumnifire.com)
+
+University of Denver:
+
+* Alumnifire site: [https://du.alumnifire.com](https://du.alumnifire.com)
+
+University of Michigan Stephen M. Ross School of Business:
+
+* Alumnifire site: [https://michiganross.alumnifire.com](https://michiganross.alumnifire.com)
+
+University of Texas communities:
+
+* Site for UT: [https://utexas.alumnifire.com](https://utexas.alumnifire.com)
+* Site for LBJ: [https://lbj.alumnifire.com](https://lbj.alumnifire.com)
+* Site for Law: [https://texaslaw.alumnifire.com](https://texaslaw.alumnifire.com)
+* Site for Global: [https://texasglobal.alumnifire.com](https://texasglobal.alumnifire.com)
+* Site for T-Association: [https://t-association.alumnifire.com](https://t-association.alumnifire.com)
+
+University of Virginia-Wise:
+
+* Alumnifire site: [https://uvawise.alumnifire.com](https://uvawise.alumnifire.com)
+
+University School:
+
+* Alumnifire site: [https://us.alumnifire.com](https://us.alumnifire.com)
+
+Westminster School:
+
+* Alumnifire site: [https://westminster-school.alumnifire.com](https://westminster-school.alumnifire.com)
+
+Westtown School:
+
+* Alumnifire site: [https://westtown.alumnifire.com](https://westtown.alumnifire.com)
+
+Yale University School of Forestry & Environmental Studies
+
+* Alumnifire site: [https://yalefes.alumnifire.com](https://yalefes.alumnifire.com)
 
 #### 9. Get in touch with us
 
 If you have suggestions or questions about this Privacy Policy, you can contact us
 at:
 
-**Mail:**    
-Pegu Labs, LLC    
+**Mail:**
+Alumnifire, Inc.
 39 Broadway, Suite 1908
 New York, NY 10006
 
-**Email:**    
+**Email:**
 [feedback@alumnifire.com](mailto:feedback@alumnifire.com)
 
 #### Link to old versions
