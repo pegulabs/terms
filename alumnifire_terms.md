@@ -97,8 +97,7 @@ applications for mobile devices, tablets, and desktops on which the Service is
 available. Thematically, the Service is an online venue that connects **"Alumni"**, or
 graduates of an insitution (usually of higher learning) with one another to share
 advice, jobs, and mentorship. The Service is owned and operated by Alumnifire, Inc.,
-which we may refer to as **"Alumnifire,"** **"we,"** **"us,"** or
-**"our"** for brevity.
+which we may refer to as **"Alumnifire,"** **"we,"** **"us,"** or **"our"** for brevity.
 
 When you use the Service, even if you decide not to become a registered
 user, you agree to several things: (i) You'll comply with and be legally
@@ -253,7 +252,7 @@ Exchanges. Alumnifire is not a party to Exchanges or any other conversations bet
 Members.
 
 Alumnifire is not required to verify the credentials of or information provided by
-any of its Members, but, because we're nice guys, we strive to ensure the validity of
+any of its Members, but, because we're nice people, we strive to ensure the validity of
 Members on the Service so you can feel good about using it. Keep in mind, Members are
 not employees or agents of Alumnifire. Being a venue means that Alumnifire is not
 responsible for Member Content, any other Content or information provided as part of
@@ -401,6 +400,67 @@ paid product or service offerings for any reason. Reasons for removal may includ
 but are not limited to, Content considered objectionable by Alumnifire at our sole
 discretion, Content or actions that violate these Terms, or Content or actions
 that otherwise may harm the Service.
+
+##### 2.5 Addendum for Members bound by NCAA rules
+
+Many communities on the Service are also member organizations of the National
+Collegiate Athletic Association ("NCAA"), and thus bound to their rules. You agree
+that, should such rules apply to you, you will not violate them while using the
+Service.
+
+NCAA rules regulate contact between representative of athletics interests
+(collectively, "boosters" and individually a "booster") and current student-athletes
+as well as their families and friends. A booster is defined as an individual or
+organization who:
+
+* Has participated in or is a member of an agency or organization as described that
+promotes an intercollegiate athletics program;
+* Has made financial contributions to an athletics department or to an athletics
+booster organization;
+* Has been requested by an athletics department staff to assist in the recruitment
+of prospective student-athletes or is assisting in the recruitment of prospective
+student-athletes;
+* Has assisted or is assisting in providing benefits to enrolled student-athletes; or
+* Is otherwise involved in promoting an intercollegiate athletics program.
+
+In general, a booster may not provide anything or make special arrangements for
+student-athletes, or their friends or families, that are not available to the general
+student population.
+
+Boosters are prohibited from the following:
+
+* Providing direct or indirect academic assistance;
+* Providing room and/or board or transportation for a student-athlete with eligibility
+remaining,
+* Entertaining student-athletes or their friends or relatives other than an occasional
+home meal pre-approved by an athletics compliance office,
+* Using the name or picture of a current student-athlete to promote a commercial
+product or service,
+* Providing the use of an automobile to a student-athlete for any purpose,
+* Providing an award or gift to a student-athlete
+* Purchasing complimentary admissions from a current student-athlete, or provide an
+honorarium for a speaking engagement.
+
+It is permissible for alumni and boosters to employ current student-athletes.
+Compensation must be based on work actually performed and at a rate commensurate with
+the going rate in the locality for services of like character. Earnings may not be
+based on the publicity, reputation, or notoriety generated from the student-athlete’s
+athletics ability.
+
+Please note the following restrictions regarding the employment of student-athletes:
+
+* Employers may not advertise a student-athlete’s employment to generate extra business,
+nor may they use a student-athlete’s name or picture to advertise, promote, or recommend
+the sale or use of any commercial product or service.
+* A student-athlete cannot endorse a company or employer through public advertising
+mediums.
+* Student-athletes cannot be provided with any benefits not provided to other employees.
+This includes the use of vehicles, transportation to or from work, meals, loans,
+advances, or time off with pay.
+* Any employment arrangement must be approved by an athletics compliance office.
+* A timecard must be kept for all student-athletes you employ.
+* Student-athletes may not be paid using cash; check and direct deposit are acceptable
+forms of payment.
 
 #### 3. Financial Terms
 
