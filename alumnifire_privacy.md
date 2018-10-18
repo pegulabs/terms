@@ -1,5 +1,5 @@
 ### Alumnifire Privacy Policy
-##### September 5, 2018
+##### October 17, 2018
 
 Alumnifire, found at [https://www.alumnifire.com](/), is owned and operated by
 Alumnifire, Inc.
@@ -553,8 +553,8 @@ at:
 
 **Mail:**
 Alumnifire, Inc.
-39 Broadway, Suite 1908
-New York, NY 10006
+37 W 26th Street, Suite 207
+New York, NY 10010
 
 **Email:**
 [feedback@alumnifire.com](mailto:feedback@alumnifire.com)
