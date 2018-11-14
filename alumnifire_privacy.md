@@ -525,6 +525,7 @@ University of Texas communities:
 * Site for Law: [https://texaslaw.alumnifire.com](https://texaslaw.alumnifire.com)
 * Site for Global: [https://texasglobal.alumnifire.com](https://texasglobal.alumnifire.com)
 * Site for T-Association: [https://t-association.alumnifire.com](https://t-association.alumnifire.com)
+* Site for Plan II: [https://plan2.alumnifire.com](https://plan2.alumnifire.com)
 
 University of Virginia-Wise:
 
@@ -533,6 +534,10 @@ University of Virginia-Wise:
 University School:
 
 * Alumnifire site: [https://us.alumnifire.com](https://us.alumnifire.com)
+
+Western Reserve Academy:
+
+* Alumnifire site: [https://wra.alumnifire.com](https://wra.alumnifire.com)
 
 Westminster School:
 
