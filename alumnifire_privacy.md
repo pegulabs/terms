@@ -1,5 +1,5 @@
 ### Alumnifire Privacy Policy
-##### October 17, 2018
+##### January 8, 2019
 
 Alumnifire, found at [https://www.alumnifire.com](/), is owned and operated by
 Alumnifire, Inc.
@@ -481,10 +481,18 @@ Hathaway Brown School:
 
 * Alumnifire site: [https://hb.alumnifire.com](https://hb.alumnifire.com)
 
+Life after Lax
+
+* Alumnifire site: [https://lifeafterlax.alumnifire.com](https://lifeafterlax.alumnifire.com)
+
 MAIP Program:
 
 * Alumnifire site: [https://4as-maip.alumnifire.com](https://4as-maip.alumnifire.com)
 * Underlying institution: American Association of Advertising Agencies (The 4A's)
+
+Malvern Preparatory School
+
+* Alumnifire site: [https://malvernprep.alumnifire.com](https://malvernprep.alumnifire.com)
 
 Phoenix Country Day School
 
