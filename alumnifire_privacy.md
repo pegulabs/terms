@@ -1,5 +1,5 @@
 ### Alumnifire Privacy Policy
-##### January 8, 2019
+##### January 17, 2019
 
 Alumnifire, found at [https://www.alumnifire.com](/), is owned and operated by
 Alumnifire, Inc.
@@ -534,6 +534,7 @@ University of Texas communities:
 * Site for Global: [https://texasglobal.alumnifire.com](https://texasglobal.alumnifire.com)
 * Site for T-Association: [https://t-association.alumnifire.com](https://t-association.alumnifire.com)
 * Site for Plan II: [https://plan2.alumnifire.com](https://plan2.alumnifire.com)
+* Site for Texas Exes: coming soon!
 
 University of Virginia-Wise:
 
