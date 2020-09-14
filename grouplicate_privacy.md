@@ -141,9 +141,9 @@ If Grouplicate is acquired by or merged with another company or a similar corpor
 
 ### Get in touch with us
 
-If you have suggestions or questions about this Privacy Policy, you can contact us at:
-Email: [legal@grouplicate.com](mailto:legal@grouplicate.com)
-Mail: Grouplicate, Inc. 37 W 26th Street, Suite 207, New York, NY 10010
+If you have suggestions or questions about this Privacy Policy, you can contact us at:    
+Email: [legal@grouplicate.com](mailto:legal@grouplicate.com)    
+Mail: Grouplicate, Inc. 37 W 26th Street, Suite 207, New York, NY 10010    
 
 ### Changes
 
