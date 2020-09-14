@@ -246,9 +246,9 @@ You agree that any action of whatever nature arising from or relating to these T
 
 ### Contact Information
 
-Alumnifire, Inc., dba Grouplicate
-Email: [legal@grouplicate.com](mailto:legal@grouplicate.com)
-Address: 37 W 26th Street, Suite 207, New York, NY 10010
+Alumnifire, Inc., dba Grouplicate    
+Email: [legal@grouplicate.com](mailto:legal@grouplicate.com)    
+Address: 37 W 26th Street, Suite 207, New York, NY 10010   
 
 ### Changes
 
