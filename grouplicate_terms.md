@@ -2,7 +2,7 @@
 
 *Note:* During the Beta, not all features referenced below may be available.
 
-### March 20, 2020
+### November 5, 2020
 
 Welcome to Grouplicate’s Terms of Service (the **“Terms”**). It's our contract with you describing the rules for using Grouplicate. We do our best to keep things succinct and use plain English. Please read the Terms carefully and completely, as it'll help you understand what's important to us and make you more comfortable using our products.
 
@@ -248,7 +248,6 @@ You agree that any action of whatever nature arising from or relating to these T
 
 Alumnifire, Inc., dba Grouplicate    
 Email: [legal@grouplicate.com](mailto:legal@grouplicate.com)    
-Address: 37 W 26th Street, Suite 207, New York, NY 10010   
 
 ### Changes
 
