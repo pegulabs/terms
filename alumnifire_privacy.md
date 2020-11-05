@@ -1,5 +1,5 @@
 ### Alumnifire Privacy Policy
-##### January 17, 2019
+##### November 5, 2020
 
 Alumnifire, found at [https://www.alumnifire.com](/), is owned and operated by
 Alumnifire, Inc.
@@ -564,11 +564,6 @@ Yale University School of Forestry & Environmental Studies
 
 If you have suggestions or questions about this Privacy Policy, you can contact us
 at:
-
-**Mail:**
-Alumnifire, Inc.
-37 W 26th Street, Suite 207
-New York, NY 10010
 
 **Email:**
 [feedback@alumnifire.com](mailto:feedback@alumnifire.com)
