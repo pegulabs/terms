@@ -2,7 +2,7 @@
 
 *Note:* During the Beta, not all features referenced below may be available.
 
-### March 20, 2020
+### November 5, 2020
 
 Grouplicate, found at [www.grouplicate.com](/), is owned and operated by Alumnifire, Inc. (dba **“Grouplicate”**).
 
@@ -143,7 +143,6 @@ If Grouplicate is acquired by or merged with another company or a similar corpor
 
 If you have suggestions or questions about this Privacy Policy, you can contact us at:    
 Email: [legal@grouplicate.com](mailto:legal@grouplicate.com)    
-Mail: Grouplicate, Inc. 37 W 26th Street, Suite 207, New York, NY 10010    
 
 ### Changes
 
