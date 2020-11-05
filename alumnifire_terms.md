@@ -1,5 +1,5 @@
 ### Alumnifire Terms of Service
-##### October 17, 2018
+##### November 5, 2020
 
 #### Summary
 
@@ -1156,11 +1156,6 @@ not limit our ability to exercise any other such right or remedy.
 #### 7. Get in touch with us
 
 If you have suggestions or questions about these Terms, you can contact us at:
-
-**Mail:**
-Alumnifire, Inc.
-37 W 26th Street, Suite 207
-New York, NY 10010
 
 **Email:**
 [feedback@alumnifire.com](mailto:feedback@alumnifire.com)
