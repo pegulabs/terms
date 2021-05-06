@@ -451,114 +451,12 @@ regarding demands or requests for information from government entities. By using
 our Service, you agree that your information may be collected, transferred, stored,
 and processed in the United States and in other countries.
 
-#### 8. Current customers with default opt-in information sharing
+#### 8. Default information sharing
 
-Currently, if you sign into any of the following Alumnifire sites, you will opt-in to
-share your Personal Information with the underlying organization by default. You may
-always elect to opt-out of sharing your Personal Information.
-
-Adelphi University:
-
-* Alumnifire site: [https://adelphi.alumnifire.com](https://adelphi.alumnifire.com)
-
-Bryant University:
-
-* Alumnifire site: [https://bryant.alumnifire.com](https://bryant.alumnifire.com)
-
-Dickinson College:
-
-* Alumnifire site: [https://dickinson.alumnifire.com](https://dickinson.alumnifire.com)
-
-Episcopal Academy:
-
-* Alumnifire site: [https://episcopalacademy.alumnifire.com](https://episcopalacademy.alumnifire.com)
-
-Florida Gulf Coast University:
-
-* Alumnifire site: [https://fgcu.alumnifire.com](https://fgcu.alumnifire.com)
-
-Hathaway Brown School:
-
-* Alumnifire site: [https://hb.alumnifire.com](https://hb.alumnifire.com)
-
-Life after Lax
-
-* Alumnifire site: [https://lifeafterlax.alumnifire.com](https://lifeafterlax.alumnifire.com)
-
-MAIP Program:
-
-* Alumnifire site: [https://4as-maip.alumnifire.com](https://4as-maip.alumnifire.com)
-* Underlying institution: American Association of Advertising Agencies (The 4A's)
-
-Malvern Preparatory School
-
-* Alumnifire site: [https://malvernprep.alumnifire.com](https://malvernprep.alumnifire.com)
-
-Phoenix Country Day School
-
-* Alumnifire site: [https://pcds.alumnifire.com](https://pcds.alumnifire.com)
-
-Revolve Community:
-
-* Alumnifire site: [https://revolvecommunity.alumnifire.com](https://revolvecommunity.alumnifire.com)
-
-St. Paul's School:
-
-* Alumnifire site: [https://sps.alumnifire.com](https://sps.alumnifire.com)
-
-The Ohio State University:
-
-* Alumnifire site: [https://osu.alumnifire.com](https://osu.alumnifire.com)
-
-The Southern Intercollegiate Athletic Conference
-
-* Alumnifire site: [https://siac.alumnifire.com](https://siac.alumnifire.com)
-
-Trident University International:
-
-* Alumnifire site: [https://trident.alumnifire.com](https://trident.alumnifire.com)
-
-University of Denver:
-
-* Alumnifire site: [https://du.alumnifire.com](https://du.alumnifire.com)
-
-University of Michigan Stephen M. Ross School of Business:
-
-* Alumnifire site: [https://michiganross.alumnifire.com](https://michiganross.alumnifire.com)
-
-University of Texas communities:
-
-* Site for UT: [https://utexas.alumnifire.com](https://utexas.alumnifire.com)
-* Site for LBJ: [https://lbj.alumnifire.com](https://lbj.alumnifire.com)
-* Site for Law: [https://texaslaw.alumnifire.com](https://texaslaw.alumnifire.com)
-* Site for Global: [https://texasglobal.alumnifire.com](https://texasglobal.alumnifire.com)
-* Site for T-Association: [https://t-association.alumnifire.com](https://t-association.alumnifire.com)
-* Site for Plan II: [https://plan2.alumnifire.com](https://plan2.alumnifire.com)
-* Site for Texas Exes: coming soon!
-
-University of Virginia-Wise:
-
-* Alumnifire site: [https://uvawise.alumnifire.com](https://uvawise.alumnifire.com)
-
-University School:
-
-* Alumnifire site: [https://us.alumnifire.com](https://us.alumnifire.com)
-
-Western Reserve Academy:
-
-* Alumnifire site: [https://wra.alumnifire.com](https://wra.alumnifire.com)
-
-Westminster School:
-
-* Alumnifire site: [https://westminster-school.alumnifire.com](https://westminster-school.alumnifire.com)
-
-Westtown School:
-
-* Alumnifire site: [https://westtown.alumnifire.com](https://westtown.alumnifire.com)
-
-Yale University School of Forestry & Environmental Studies
-
-* Alumnifire site: [https://yalefes.alumnifire.com](https://yalefes.alumnifire.com)
+When joining a community on Alumnifire, your account will be set to share your
+profile information (including contact information like email address) with the
+moderators of that community by default. You may always elect to opt-out of sharing
+your personal information via a prominent setting during and after registration.
 
 #### 9. Get in touch with us
 
