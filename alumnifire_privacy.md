@@ -1,5 +1,5 @@
 ### Alumnifire Privacy Policy
-##### November 5, 2020
+##### May 6, 2021
 
 Alumnifire, found at [https://www.alumnifire.com](/), is owned and operated by
 Alumnifire, Inc.
