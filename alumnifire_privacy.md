@@ -319,23 +319,28 @@ analytic services. For example, we currently use Mailgun and Mailchimp to send y
 emails (and may use others in the future). Both providers include Web Beacons in
 emails they send in order to determine if you've opened the email.
 
-##### 3.12 Third Party Users
+##### 3.12 Institutional Users
+
+In most cases, we have a client relationship with the institution underlying each
+alumni community on Alumnifire. Employees of those institutions will typically have
+accounts that they can use to access some information about you. We may offer the
+institution access to analytics and data about the performance of our Service within
+their community. Such analytics and data would contain aggregated and anonymized Log
+Data and Interactive Information. Employee accounts would also be able to access
+your public profile and the Personal Information within by visiting your profile page
+on the Service. We may also offer them the ability to download such information on all
+of their constituents in aggregate within the Service. When we do this, however, we
+treat your contact information (email address, phone number, etc.) separately from
+the other information in your profile. You have the ability to prevent the institution
+from downloading your contact information via a setting in your account.
+
+##### 3.13 Third Party Users
 
 We may allow third parties who did not attend your particular school or were not a
 part of your particular organization, such as recruiters, to access and use the
 Service. In such a case, we may offer a way for you to make your profile available
 to those third parties if you so choose. Such access to your information would require
 your explicit opt-in via a setting in your account.
-
-We also have relationships with schools and organizations that manage alumni
-communities. In these cases, we may offer the school or organization access to
-analytics and data about the performance of our Service within their specific alumni
-community. Such analytics and data would contain aggregated and anonymized Log Data
-and Interactive Information. While the employees of such an organization would have
-access to your public profile and the Personal Information within by visiting the
-Service, we would only transfer additional Personal Information to them with your
-express, opt-in consent, except for those organizations listed in section 8, as
-described in section 3.1.
 
 #### 4. Sharing and disclosing your information
 
