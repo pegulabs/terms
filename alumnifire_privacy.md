@@ -1,5 +1,5 @@
 ### Alumnifire Privacy Policy
-##### May 6, 2021
+##### April 4, 2023
 
 Alumnifire, found at [https://www.alumnifire.com](/), is owned and operated by
 Alumnifire, Inc.
@@ -323,9 +323,9 @@ emails they send in order to determine if you've opened the email.
 
 We may allow third parties who did not attend your particular school or were not a
 part of your particular organization, such as recruiters, to access and use the
-Service. In such a case, we may allow those third parties to view part or all of
-your public profile on Alumnifire. Limit your profile information to only
-information you're comfortable sharing with such third parties.
+Service. In such a case, we may offer a way for you to make your profile available
+to those third parties if you so choose. Such access to your information would require
+your explicit opt-in via a setting in your account.
 
 We also have relationships with schools and organizations that manage alumni
 communities. In these cases, we may offer the school or organization access to
